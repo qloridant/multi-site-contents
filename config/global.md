@@ -32,3 +32,8 @@ colors:
   dark_error: #D1335B
   dark_success: #03BD5B
 ---
+
+
+# Config file
+
+This file contains the main configuration in the yaml part on top...
