@@ -1,7 +1,7 @@
 app_name : Multi
 app_default_locale: fr
 
-routes: ./config/routes
+routes: ./config/routes.yml
 contents: 
   texts: ./texts
   images: ./images
