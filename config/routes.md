@@ -1,4 +1,12 @@
 ---
 routes: 
-  - home: home
+  - home: /
+  - team: /team
+  - who-are-we: /who-are-we
+  - references: /references
+  - services: /services
+  - we-like: /we-like
+  - blog: /blog
+  - podcasts: /podcasts
+  - legal: /legal
 --- 
