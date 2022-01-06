@@ -2,6 +2,8 @@ app_name : Multi
 app_default_locale: fr
 
 routes: ./config/routes.yml
+legal: ./config/legal.yml
+
 contents: 
   texts: ./texts
   images: ./images
