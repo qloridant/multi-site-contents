@@ -2,50 +2,50 @@
 buttons: 
   - home: 
     link: /
-    i18n: 
+    label: 
       fr: Accueil
       en: Home
   - who-are-we: 
     link: /who-are-we
-    i18n: 
+    label: 
       fr: Accueil
       en: Home
     submenu: 
       - team:
         link: /team
-        i18n: 
+        label: 
           fr: Equipe
           en: Team
       - references:
         link: /references
-        i18n: 
+        label: 
           fr: Références
           en: References
   - offer: 
     link: /offer
-    i18n: 
+    label: 
       fr: Accueil
       en: Home
     submenu: 
       - services:
         link: /services
-        i18n: 
+        label: 
           fr: Offre de service
           en: Services
   - we-like: 
     link: /we-likke
-    i18n: 
+    label: 
       fr: On aime
       en: We like
     submenu: 
       - podcast:
         link: /podcasts
-        i18n: 
+        label: 
           fr: Podcasts
           en: Podcasts
   - contact: 
     link: /contact
-    i18n: 
+    label: 
       fr: Contact
       en: Contact
 --- 
