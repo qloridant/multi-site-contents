@@ -1,46 +1,46 @@
 ---
 routes: 
-  - home: 
+  - name: home 
     url: /
     contentFolder: ./texts/landing
     files: 
       fr: landing-head-fr.md
-  - team: 
+  - name: team 
     url: /team
     contentFolder: ./texts/landing
     files: 
       fr: landing-head-fr.md
-  - who-are-we: 
+  - name: who-are-we 
     url: /who-are-we
     contentFolder: ./texts/who-are-we
     files: 
       fr: landing-head-fr.md-are-we
-  - references: 
+  - name: references 
     url: /references
     contentFolder: ./texts/who-are-we
     files: 
       fr: landing-head-fr.md
-  - services: 
+  - name: services 
     url: /services
     contentFolder: ./texts/who-are-we
     files: 
       fr: landing-head-fr.md
-  - we-like: 
+  - name: we-like 
     url: /we
     contentFolder: ./texts/we-like
     files: 
       fr: landing-head-fr.md-like
-  - blog: 
+  - name: blog 
     url: /blog
     contentFolder: ./texts/we-like
     files: 
       fr: landing-head-fr.md
-  - podcasts: 
+  - name: podcasts 
     url: /podcasts
     contentFolder: ./texts/we-like
     files: 
       fr: podcast-fr.md
-  - legal: 
+  - name: legal 
     url: /legal
     contentFolder: ./texts/legal-mentions
     files: 
