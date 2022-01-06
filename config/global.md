@@ -36,4 +36,4 @@ colors:
 
 # Config file
 
-This file contains the main configuration in the yaml part on top...
+This file `config.md` contains the main configuration in the yaml part on top... :kissing_heart:
