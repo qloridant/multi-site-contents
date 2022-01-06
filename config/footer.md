@@ -1,4 +1,6 @@
 ---
 links: 
-  - link1: test
+  - name: test
+    link: /test
 ---
+

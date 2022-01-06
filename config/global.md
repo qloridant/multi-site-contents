@@ -16,25 +16,14 @@ contents:
 
 colors:
   loading_color: #6fdcbf
-  loading_height: 4
+  primary: #bc85ff
+  accent: #572a99
+  secondary: #6fdcbf
+  info: #53657D
+  warning: #ff9947
+  error: #D1335B
+  success: #03BD5B
 
-  is_dark: false
-
-  light_primary: #bc85ff
-  light_accent: #572a99
-  light_secondary: #6fdcbf
-  light_info: #53657D
-  light_warning: #ff9947
-  light_error: #D1335B
-  light_success: #03BD5B
-
-  dark_primary: #bc85ff
-  dark_accent: #572a99
-  dark_secondary: #6fdcbf
-  dark_info: #53657D
-  dark_warning: #ff9947
-  dark_error: #D1335B
-  dark_success: #03BD5B
 ---
 
 
