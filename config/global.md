@@ -2,7 +2,7 @@
 app_name : Multi
 app_default_locale: fr
 
-icon: ./images/logos/multi-logo.png
+app_icon: ./images/logos/multi-logo.png
 
 routes: ./config/routes.md
 navbar: ./config/navbar.md
