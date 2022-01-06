@@ -1,3 +1,4 @@
+---
 app_name : Multi
 app_default_locale: fr
 
@@ -30,3 +31,4 @@ colors:
   dark_warning: #ff9947
   dark_error: #D1335B
   dark_success: #03BD5B
+---
