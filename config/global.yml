@@ -1,0 +1,8 @@
+app_name : Multi
+app_default_locale: fr
+
+routes: ./config/routes
+contents: 
+  texts: ./texts
+  images: ./images
+  data: ./data
