@@ -1,10 +1,12 @@
 ---
-buttons: 
+buttons-left: 
+
   - name: home 
     link: /
     label: 
       fr: Accueil
       en: Home
+
   - name: who-are-we 
     link: /who-are-we
     label: 
@@ -21,6 +23,7 @@ buttons:
         label: 
           fr: Références
           en: References
+
   - name: offer 
     link: /offer
     label: 
@@ -32,6 +35,7 @@ buttons:
         label: 
           fr: Offre de service
           en: Services
+
   - name: we-like 
     link: /we-likke
     label: 
@@ -43,6 +47,10 @@ buttons:
         label: 
           fr: Podcasts
           en: Podcasts
+
+
+buttons-right: 
+
   - name: contact 
     link: /contact
     label: 
