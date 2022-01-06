@@ -2,8 +2,10 @@
 app_name : Multi
 app_default_locale: fr
 
-routes: ./config/routes.yml
-legal: ./config/legal.yml
+icon: ./images/logos/multi-logo.png
+
+routes: ./config/routes.md
+legal: ./config/legal.md
 
 contents: 
   texts: ./texts
