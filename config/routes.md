@@ -2,7 +2,6 @@
 routes: 
 
   - name: home 
-    component: markdown
     url: /
     contentFolder: ./texts/landing
     sections: 
@@ -16,7 +15,6 @@ routes:
           fr: landing-text-fr.md
 
   - name: team 
-    component: markdown
     url: /team
     contentFolder: ./texts/landing
     sections: 
@@ -26,7 +24,6 @@ routes:
           fr: team-data.md
   
   - name: who-are-we
-    component: markdown
     url: /who-are-we
     contentFolder: ./texts/who-are-we
     sections: 
@@ -36,17 +33,15 @@ routes:
           fr: who-head-fr.md
   
   - name: references
-    component: grid
     url: /references
-    contentFolder: ./texts/who-are-we
+    contentFolder: ./texts/references
     sections: 
-      - name: head
-        component: textComponent
+      - name: ref-data
+        component: gridComponentData
         files:
-          fr: landing-head-fr.md
+          fr: references-data.md
   
   - name: services
-    component: markdown
     url: /services
     contentFolder: ./texts/who-are-we
     sections: 
@@ -56,7 +51,6 @@ routes:
           fr: landing-head-fr.md
   
   - name: we-like
-    component: markdown
     url: /we
     contentFolder: ./texts/we-like
     sections: 
@@ -66,7 +60,6 @@ routes:
           fr: landing-head-fr.md
   
   - name: blog
-    component: markdown
     url: /blog
     contentFolder: ./texts/we-like
     sections: 
@@ -76,7 +69,6 @@ routes:
           fr: landing-head-fr.md
   
   - name: podcasts
-    component: list
     url: /podcasts
     contentFolder: ./texts/we-like
     sections: 
@@ -86,7 +78,6 @@ routes:
           fr: podcast-fr.md
   
   - name: legal
-    component: markdown
     url: /legal
     contentFolder: ./texts/legal-mentions
     sections: 
