@@ -66,6 +66,14 @@ buttons-right:
     label: 
       fr: Contact
       en: Contact
+    submenu: 
+      - name: contribute
+        link: /contribute
+        component: simpleLink
+        label: 
+          fr: Contribuer
+          en: Contribute
+
 
   - name: switch-locale
     component: switchLocaleDropdown
