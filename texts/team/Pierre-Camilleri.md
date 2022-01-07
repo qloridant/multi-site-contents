@@ -1,5 +1,6 @@
 ---
 name: Pierre Camilleri
+status: [ associate, founder ]
 image: ./images/team/pierre-camilleri.png
 github: https://github.com/jazzypierrot
 tags: [data, data-science]

@@ -3,86 +3,81 @@ routes:
 
   - name: home 
     url: /
-    contentFolder: ./texts/landing
     sections: 
-      - name: head
+      - name: logo
         component: logoAnimated
         files:
-          fr: landing-head-fr.md
+          fr: ./texts/landing/landing-head-fr.md
       - name: head
         component: textComponent
         files:
-          fr: landing-text-fr.md
+          fr: ./texts/landing/landing-text-fr.md
 
   - name: team 
     url: /team
-    contentFolder: ./texts/landing
     sections: 
       - name: head
         component: dataCards
         files:
-          fr: team-data.md
+          fr: ./texts/team/team-data.md
   
   - name: who-are-we
     url: /who-are-we
-    contentFolder: ./texts/who-are-we
     sections: 
       - name: head
         component: textComponent
         files:
-          fr: who-head-fr.md
+          fr: ./texts/who-are-we/who-head-fr.md
   
   - name: references
     url: /references
-    contentFolder: ./texts/references
     sections: 
       - name: ref-data
         component: gridComponentData
         files:
-          fr: references-data.md
+          fr: ./texts/references/references-data.md
   
   - name: services
     url: /services
-    contentFolder: ./texts/who-are-we
     sections: 
       - name: head
         component: textComponent
         files:
-          fr: landing-head-fr.md
+          fr: ./texts/who-are-we/landing-head-fr.md
   
   - name: we-like
     url: /we
-    contentFolder: ./texts/we-like
     sections: 
       - name: head
         component: textComponent
         files:
-          fr: landing-head-fr.md
+          fr: ./texts/we-like/landing-head-fr.md
   
   - name: blog
     url: /blog
-    contentFolder: ./texts/we-like
     sections: 
       - name: head
         component: textComponent
         files:
-          fr: landing-head-fr.md
+          fr: ./texts/we-like/landing-head-fr.md
   
   - name: podcasts
     url: /podcasts
-    contentFolder: ./texts/we-like
     sections: 
       - name: head
         component: dataCards
         files:
-          fr: podcast-fr.md
+          fr: ./texts/we-like/podcast-fr.md
   
   - name: legal
     url: /legal
-    contentFolder: ./texts/legal-mentions
     sections: 
+      - name: data
+        component: textDataComponent
+        files:
+          fr: ./texts/legal-mentions/legal.md
       - name: head
         component: textComponent
         files:
-          fr: legal-fr.md
+          fr: ./texts/legal-mentions/legal-fr.md
 --- 

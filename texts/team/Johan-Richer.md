@@ -1,5 +1,6 @@
 ---
 name: Johan Richer
+status: [ associate, founder, employee ]
 image: ./images/team/johan-richer.png
 github: https://github.com/jazzypierrot
 tags: [ conseil ]

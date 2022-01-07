@@ -1,5 +1,6 @@
 ---
 name: Quentin Loridant
+status: [ associate, founder ]
 image: ./images/team/quentin-loridant.png
 github: https://www.linkedin.com/in/quentin-loridant-8b5719a5/
 tags: []

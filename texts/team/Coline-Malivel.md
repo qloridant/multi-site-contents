@@ -1,5 +1,6 @@
 ---
 name: Coline Malivel
+status: [ associate, founder ]
 image: ./images/team/coline-malivel.png
 github: https://github.com/coline
 linkedin: https://www.linkedin.com/in/colinemalivel/

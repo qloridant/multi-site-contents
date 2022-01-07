@@ -1,5 +1,6 @@
 ---
 name: Thomas Brosset
+status: [ associate, founder ]
 image: ./images/team/thomas-brosset.png
 github: https://github.com/thoomasbro
 linkedin: https://www.linkedin.com/in/thomasbrosset/
