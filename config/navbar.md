@@ -4,6 +4,8 @@ logo-left: ./images/logos/logo MULTI - 003-bis.png
 
 buttons-left: 
 
+buttons-right: 
+
   - name: who-are-we 
     link: /who-are-we
     component: dropdownLink
@@ -57,9 +59,6 @@ buttons-left:
         label: 
           fr: Podcasts
           en: Podcasts
-
-
-buttons-right: 
 
   - name: contact 
     link: /contact
