@@ -62,7 +62,7 @@ buttons-right:
 
   - name: contact 
     link: /contact
-    component: simpleLink
+    component: buttonLink
     label: 
       fr: Contact
       en: Contact
