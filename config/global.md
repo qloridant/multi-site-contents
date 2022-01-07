@@ -10,10 +10,10 @@ navbar: ./config/navbar.md
 footer: ./config/footer.md
 legal: ./config/legal.md
 
-contents: 
-  texts: ./texts
-  images: ./images
-  data: ./data
+# contents: 
+#   texts: ./texts
+#   images: ./images
+#   data: ./data
 
 colors:
   loading_color: #6fdcbf
