@@ -1,6 +1,7 @@
 ---
 app_name : Multi
 app_default_locale: fr
+app_locales: [ fr, en ]
 
 app_icon: ./images/logos/multi-logo.png
 
