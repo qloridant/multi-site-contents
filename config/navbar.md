@@ -83,6 +83,7 @@ buttons-right:
 
   - name: switch-locale
     component: switchLocaleDropdown
+    appearance: rounded
     
 
 --- 
