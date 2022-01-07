@@ -1,6 +1,7 @@
 ---
 background-color: white
 logo-left: ./images/logos/logo MULTI - 003-bis.png
+fixed-top: true
 
 buttons-left: 
 
