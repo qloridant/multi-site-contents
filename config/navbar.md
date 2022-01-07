@@ -34,12 +34,30 @@ buttons-right:
       fr: Offre de services
       en: Services
     submenu: 
-      - name: services
-        link: /services
+      - name: dev
+        link: /dev
         component: simpleLink
         label: 
-          fr: Offre de service
-          en: Services
+          fr: Développement
+          en: Development
+      - name: data
+        link: /data
+        component: simpleLink
+        label: 
+          fr: Data
+          en: Data
+      - name: design
+        link: /design
+        component: simpleLink
+        label: 
+          fr: Design
+          en: Design
+      - name: audit
+        link: /audit
+        component: simpleLink
+        label: 
+          fr: Conseil
+          en: Audit
 
   - name: we-like 
     link: /we-like
@@ -68,6 +86,12 @@ buttons-right:
       fr: Contact
       en: Contact
     submenu: 
+      - name: infos
+        link: /infos
+        component: simpleLink
+        label: 
+          fr: Infos
+          en: Infos
       - name: contribute
         link: /contribute
         component: simpleLink
