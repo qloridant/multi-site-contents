@@ -62,7 +62,7 @@ buttons-right:
 
   - name: contact 
     link: /contact
-    component: buttonLink
+    component: dropdownLink
     label: 
       fr: Contact
       en: Contact
@@ -73,7 +73,12 @@ buttons-right:
         label: 
           fr: Contribuer
           en: Contribute
-
+      - name: legal
+        link: /legal
+        component: simpleLink
+        label: 
+          fr: Mentions légales
+          en: Legal
 
   - name: switch-locale
     component: switchLocaleDropdown
