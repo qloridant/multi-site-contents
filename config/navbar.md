@@ -32,6 +32,12 @@ buttons-right:
         label: 
           fr: Références
           en: References
+      - name: jobs
+        link: /jobs
+        component: simpleLink
+        label: 
+          fr: On recrute
+          en: We recruit
 
   - name: offer 
     link: /offer
@@ -50,8 +56,8 @@ buttons-right:
         link: /data
         component: simpleLink
         label: 
-          fr: Data
-          en: Data
+          fr: Data & algos
+          en: Data & algos
       - name: design
         link: /design
         component: simpleLink
