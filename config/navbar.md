@@ -11,9 +11,15 @@ buttons-right:
     link: /who-are-we
     component: dropdownLink
     label: 
-      fr: Accueil
-      en: Home
+      fr: Qui sommes-nous
+      en: Who are we
     submenu: 
+      - name: manifesto
+        link: /manifesto
+        component: simpleLink
+        label: 
+          fr: Manifeste
+          en: Manifesto
       - name: team
         link: /team
         component: simpleLink
