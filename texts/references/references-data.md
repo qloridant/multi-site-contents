@@ -4,6 +4,7 @@ type: project
 options:
   title-key: name
   cover-key: logo
+  cover-ratio: 6by4
   columns-size: half
   has-gallery: true
   card-modal: true
