@@ -10,6 +10,8 @@ navbar: ./config/navbar.md
 footer: ./config/footer.md
 legal: ./config/legal.md
 
+app_md_flavor: github
+
 # contents: 
 #   texts: ./texts
 #   images: ./images

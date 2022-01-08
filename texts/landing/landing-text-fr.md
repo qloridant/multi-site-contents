@@ -4,6 +4,7 @@ tags: test
 
 
 🚀 &nbsp; **multi** c'est une coopérative de type [SCOP](https://www.les-scop.coop/foire-aux-questions) qui développe des logiciels libres et qui a pour ambition de donner plus de poids aux multiples acteurs du numérique d'intérêt général grâce aux [communs numériques](https://labo.societenumerique.gouv.fr/2019/10/16/les-communs-numeriques-un-modele-innovant-de-developpement-des-ressources-numeriques/). 
+
 - D'une part, **en créant et en animant un collectif inclusif de professionnel‧le‧s** du numérique, libre-penseurs·euses, aux profils et compétences multiples, et qui portent ensemble une vision, une éthique, et des pratiques communes ; 
 - D'autre part, **en offrant aux institutions un acteur spécialisé**, agile, unique, capable de produire et mettre en place des services numériques innovants, de répondre à des marchés publics, et qui possède une expertise et des références dans le champ du numérique d'intérêt général.
 

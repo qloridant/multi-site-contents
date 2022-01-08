@@ -6,12 +6,15 @@ routes:
     sections: 
       - name: logo
         component: LogoAnimated
+        options: [ no-translation ]
         files:
           fr: ./texts/landing/landing-head-fr.md
+          en: ./texts/landing/landing-head-fr.md
       - name: head
         component: TextComponent
         files:
           fr: ./texts/landing/landing-text-fr.md
+          en: ./texts/landing/landing-text-en.md
 
   - name: team 
     url: /team
