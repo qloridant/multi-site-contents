@@ -9,7 +9,10 @@ Vous avez besoin de compétences pointues et d'une équipe dédiée, efficace, a
 
 ### Vous êtes un·e professionnel·le du numérique - designer, data-scientist, développeur·euse...
 
-Vous portez les valeurs et les pratiques du logiciel libre, de l'open data et des communs numériques. Vous vous définissez comme un·e professionnel.le engagé·e. 
+Vous portez les valeurs et les pratiques du logiciel libre, de l'open data et des communs numériques. 
+
+Vous vous définissez comme un·e professionnel.le engagé·e. 
+
 Vous désirez pouvoir vous concentrer sur votre métier plutôt que sur les tâches administratives, de travailler sur des projets d'intérêt général, d'échanger avec vos pairs, de stabiliser votre carrière, qu'on vous propose des projets qui ont du sens, et de prendre part à un projet collectif qui partage ces mêmes valeurs.
 
 
