@@ -23,12 +23,12 @@ columns:
       fr: Sur les réseaux
       en: On social networks
     links: 
-      - url: /manifesto
+      - url: https://twitter.com/jailbreak_paris
         icon: twitter
         label:
           fr: Twitter
           en: Twitter
-      - url: /manifesto
+      - url: https://www.linkedin.com/company/11200772
         icon: linkedin
         label:
           fr: Linkedin
@@ -38,10 +38,10 @@ columns:
         label:
           fr: Gitlab
           en: Gitlab
-      - url: /manifesto
-        icon: gitlab
+      - url: https://github.com/co-demos
+        icon: github
         label:
-          fr: Gitlab
-          en: Gitlab
+          fr: Github
+          en: Github
 ---
 
