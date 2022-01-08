@@ -71,18 +71,6 @@ routes:
         files:
           fr: ./texts/references/references-data.md
 
-  - name: jobs 
-    url: /jobs
-    sections: 
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/jobs/jobs-head-fr.md
-      - name: data
-        component: DataGrid
-        files:
-          fr: ./texts/jobs/jobs-data.md
-
   # OFFER
   - name: offer
     url: /offer
@@ -202,4 +190,24 @@ routes:
         component: TextDataComponent
         files:
           fr: ./texts/contact/legal-data.md
+
+  - name: join 
+    url: /join
+    sections: 
+      - name: head
+        component: TextComponent
+        files:
+          fr: ./texts/jobs/join-head-fr.md
+  
+  - name: jobs 
+    url: /jobs
+    sections: 
+      - name: head
+        component: TextComponent
+        files:
+          fr: ./texts/jobs/jobs-head-fr.md
+      - name: data
+        component: DataGrid
+        files:
+          fr: ./texts/jobs/jobs-data.md
 --- 

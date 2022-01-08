@@ -137,6 +137,12 @@ buttons-right:
       fr: Jobs
       en: Jobs
     submenu: 
+      - name: join
+        link: /join
+        component: simpleLink
+        label: 
+          fr: Pourquoi nous rejoindre
+          en: Why join us
       - name: jobs
         link: /jobs
         component: simpleLink
