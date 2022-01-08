@@ -50,6 +50,12 @@ buttons-right:
       fr: Offre de services
       en: Services
     submenu: 
+      - name: offer
+        link: /offer
+        component: simpleLink
+        label: 
+          fr: Présentation
+          en: Presentation
       - name: dev
         link: /dev
         component: simpleLink
