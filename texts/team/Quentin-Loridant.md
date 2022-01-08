@@ -7,7 +7,7 @@ email: team@multi.coop
 tags: [ data, data science ]
 ---
 
-<p class="resume">
+<p class="readmore">
   Bonjour ! Je suis un diplômé de l’ENSIMAG, très fier d’avoir intégré la promotion des EIG. 
 </p>
 

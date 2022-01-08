@@ -2,7 +2,7 @@
 type: references
 
 options:
-  has-resume: true
+  has-readmore: true
   has-socials: true
   filters: 
     activate: true

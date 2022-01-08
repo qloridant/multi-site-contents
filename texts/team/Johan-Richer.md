@@ -7,7 +7,7 @@ email: team@multi.coop
 tags: [ conseil ]
 ---
 
-<p class="resume">
+<p class="readmore">
   Issu d’une formation en sociologie politique et relations internationales et après un passage au ministère des affaires étrangères, je découvre le numérique en participant à différentes initiatives de cartographie collaborative à vocation humanitaire en France et à l’international : CartONG, MapFugees, Missing Maps...
 </p>
 

@@ -8,7 +8,7 @@ email: team@multi.coop
 tags: [ full-stack, python, nuxt, vuejs, flask, fastAPI ]
 ---
 
-<p class="resume">
+<p class="readmore">
   Après une formation initiale d'architecte DPLG puis dans la recherche (doctorant CNRS en Turquie) je me suis reconverti dans le numérique en tant que développeur fullstack. 
 </p>
 

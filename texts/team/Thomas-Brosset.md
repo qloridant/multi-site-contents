@@ -8,7 +8,7 @@ email: team@multi.coop
 tags: [ dev, urba ]
 ---
 
-<p class="resume">
+<p class="readmore">
   Urbaniste, je me suis formé très rapidement à la géomatique et au développement web pour aider les collectivités locales à mobiliser l’open data pour construire de meilleures politiques publiques. 
 </p>
 

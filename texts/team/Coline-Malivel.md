@@ -8,7 +8,7 @@ email: team@multi.coop
 tags: [ design ]
 ---
 
-<p class="resume">
+<p class="readmore">
   Pratiquant tour à tour le design graphique, l’UX, le design de services, puis de stratégie, j’exerce depuis une dizaine d’années ces différentes facettes du design avec une visée d’acculturation et de diffusion du design. 
 </p>
 
