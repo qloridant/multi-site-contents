@@ -4,4 +4,4 @@ effect: half-tone
 ---
 
 
-this is a test
+![](https://hackmd.io/_uploads/BJ2XoAu9t.png)
