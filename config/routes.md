@@ -44,11 +44,15 @@ routes:
       - name: data
         component: DataGrid
         files:
-          fr: ./data/team/team-data.md
+          fr: ./texts/team/team-data.md
 
   - name: references
     url: /references
     sections: 
+      - name: head
+        component: TextComponent
+        files:
+          fr: ./texts/references/references-head-fr.md
       - name: ref-data
         component: DataGrid
         files:
@@ -64,7 +68,7 @@ routes:
       - name: data
         component: DataGrid
         files:
-          fr: ./data/jobs/jobs-data.md
+          fr: ./texts/jobs/jobs-data.md
 
   # OFFER
   - name: offer
@@ -81,7 +85,7 @@ routes:
       - name: head
         component: TextComponent
         files:
-          fr: ./texts/offer/dev-head-fr.md
+          fr: ./texts/offer/offer-dev-fr.md
 
   - name: data
     url: /data
@@ -89,7 +93,7 @@ routes:
       - name: head
         component: TextComponent
         files:
-          fr: ./texts/offer/data-head-fr.md
+          fr: ./texts/offer/offer-data-fr.md
 
   - name: design
     url: /design
@@ -97,7 +101,7 @@ routes:
       - name: head
         component: TextComponent
         files:
-          fr: ./texts/offer/design-head-fr.md
+          fr: ./texts/offer/offer-design-fr.md
 
   - name: audit
     url: /audit
@@ -105,7 +109,7 @@ routes:
       - name: head
         component: TextComponent
         files:
-          fr: ./texts/offer/audit-head-fr.md
+          fr: ./texts/offer/offer-audit-fr.md
 
 
   # WE LIKE
@@ -115,23 +119,31 @@ routes:
       - name: head
         component: TextComponent
         files:
-          fr: ./texts/we-like/landing-head-fr.md
+          fr: ./texts/we-like/we-like-head-fr.md
   
   - name: network
     url: /network
     sections: 
       - name: head
+        component: TextComponent
+        files:
+          fr: ./texts/we-like/network-head-fr.md
+      - name: data
         component: DataGrid
         files:
-          fr: ./texts/we-like/blog-head-fr.md
+          fr: ./texts/we-like/network-data.md
 
   - name: podcasts
     url: /podcasts
-    sections: 
+    sections:
       - name: head
+        component: TextComponent
+        files:
+          fr: ./texts/podcasts/podcasts-head-fr.md
+      - name: data
         component: DataGrid
         files:
-          fr: ./texts/we-like/podcast-fr.md
+          fr: ./texts/podcasts/podcasts-data.md
   
   - name: blog
     url: /blog
@@ -139,8 +151,12 @@ routes:
       - name: head
         component: TextComponent
         files:
-          fr: ./texts/we-like/blog-head-fr.md
-  
+          fr: ./texts/blog/blog-data.md
+      - name: data
+        component: DataGrid
+        files:
+          fr: ./texts/blog/blog-data.md
+
   # CONTACT
   - name: contact
     url: /contact
@@ -148,7 +164,7 @@ routes:
       - name: head
         component: TextComponent
         files:
-          fr: ./texts/legal-mentions/legal.md
+          fr: ./texts/contact/contact-head-fr.md
 
   - name: contribute
     url: /contribute
@@ -156,17 +172,13 @@ routes:
       - name: head
         component: TextComponent
         files:
-          fr: ./texts/legal-mentions/legal.md
+          fr: ./texts/contact/contribute-head-fr.md
 
   - name: legal
     url: /legal
     sections: 
       - name: data
-        component: textDataComponent
+        component: TextDataComponent
         files:
-          fr: ./texts/legal-mentions/legal.md
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/legal-mentions/legal-fr.md
+          fr: ./texts/contact/legal-data.md
 --- 
