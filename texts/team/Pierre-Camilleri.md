@@ -4,7 +4,7 @@ status: [ associate, founder ]
 image: ./images/team/pierre-camilleri.png
 github: https://github.com/jazzypierrot
 email: team@multi.coop
-tags: [ data, data science ]
+tags: [ data, data science, R ]
 ---
 
 <p class="readmore">

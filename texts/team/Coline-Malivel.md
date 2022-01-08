@@ -5,7 +5,7 @@ image: ./images/team/coline-malivel.jpg
 github: https://github.com/coline
 linkedin: https://www.linkedin.com/in/colinemalivel/
 email: team@multi.coop
-tags: [ design ]
+tags: [ design UX, design de services ]
 ---
 
 <p class="readmore">
