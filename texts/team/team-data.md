@@ -19,7 +19,10 @@ items:
   - file: ./texts/team/Coline-Malivel.md
 
 dict:
-  associate:
+  readmore:
+    fr: Lire plus...
+    en: Read more...
+ associate:
     fr: associé
     en: associate
   founder:
