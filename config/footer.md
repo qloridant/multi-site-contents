@@ -3,14 +3,45 @@ columns:
   - name: intern
     label:
       fr: Informations générales
+      en: Infos
     links: 
       - url: /manifesto
         label:
           fr: Manifeste
           en: Manifesto
+      - url: /contact
+        label:
+          fr: Contact
+          en: Contact
       - url: /legal
         label:
           fr: Mentions légales
           en: Legal mentions
+  - name: socials
+    options: [ in-line ]
+    label:
+      fr: Sur les réseaux
+      en: On social networks
+    links: 
+      - url: /manifesto
+        icon: twitter
+        label:
+          fr: Twitter
+          en: Twitter
+      - url: /manifesto
+        icon: linkedin
+        label:
+          fr: Linkedin
+          en: Linkedin
+      - url: /manifesto
+        icon: gitlab
+        label:
+          fr: Gitlab
+          en: Gitlab
+      - url: /manifesto
+        icon: gitlab
+        label:
+          fr: Gitlab
+          en: Gitlab
 ---
 
