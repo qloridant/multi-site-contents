@@ -11,7 +11,7 @@ options:
       - name: technos
 
 items: 
-  - file: ./data/references/data-patch.md
+  - file: ./texts/references/data-patch.md
 
 dict:
   clients:
