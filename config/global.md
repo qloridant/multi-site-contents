@@ -3,7 +3,7 @@ app_name : Multi
 app_default_locale: fr
 app_locales: [ fr, en ]
 app_md_flavor: github
-app_icon: ./images/logos/multi-logo.png
+app_icon: ./images/logos/logo MULTI - 003 - m.png
 
 routes: ./config/routes.md
 navbar: ./config/navbar.md
