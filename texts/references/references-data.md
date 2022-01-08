@@ -23,7 +23,7 @@ options:
     - refs
     - code
   tags-keys: 
-    - key: technos
+    - key: clients
       color: primary
   filters: 
     activate: true

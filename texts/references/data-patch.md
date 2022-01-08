@@ -56,6 +56,7 @@ code:
     fr: Backend
 
 logo: ./images/references/datapatch/datapatch-logo.png
+
 images:
   - ./images/references/datapatch/datapatch-01.png
   - ./images/references/datapatch/datapatch-02.png
