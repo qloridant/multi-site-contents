@@ -21,7 +21,7 @@ options:
     - technos
     - refs
     - code
-  tags-fields: 
+  tags-keys: 
     - key: technos
       color: primary
   filters: 

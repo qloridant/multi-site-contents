@@ -7,7 +7,7 @@ options:
   columns-size: one-third
   has-readmore: true
   has-socials: true
-  tags-fields: 
+  tags-keys: 
     - key: tags
       color: primary
     - key: status
