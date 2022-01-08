@@ -4,6 +4,11 @@ type: references
 options:
   has-readmore: true
   has-socials: true
+  tags-fields: 
+    - key: tags
+      color: primary
+    - key: status
+      color: light
   filters: 
     activate: true
     items: 
@@ -19,12 +24,6 @@ items:
   - file: ./texts/team/Coline-Malivel.md
 
 dict:
-  readmore:
-    fr: Lire plus
-    en: Read more
-  readless:
-    fr: Lire moins
-    en: Read less
   associate:
     fr: associé
     en: associate

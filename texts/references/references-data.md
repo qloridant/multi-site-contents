@@ -1,6 +1,16 @@
 ---
 type: references
 
+options:
+  has-readmore: true
+  tags-fields: 
+    - key: technos
+      color: primary
+  filters: 
+    activate: true
+    items: 
+      - name: technos
+
 items: 
   - file: ./data/references/data-patch.md
 
