@@ -6,7 +6,8 @@ options:
   filters: 
     activate: true
     items: 
-      - name: by-type
+      - name: status
+      - name: tag
     
 items:
   - file: ./texts/team/Johan-Richer.md
