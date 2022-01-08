@@ -2,6 +2,7 @@
 type: references
 
 options:
+  has-resume: true
   filters: 
     activate: true
     items: 
