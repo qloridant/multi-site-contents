@@ -1,5 +1,5 @@
 ---
-image: ./images/logos/multi-01.png
+image: ./images/logos/logo-multi-003.png
 effect: half-tone
 ---
 
