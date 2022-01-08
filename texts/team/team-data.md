@@ -3,6 +3,7 @@ type: references
 
 options:
   has-resume: true
+  has-socials: true
   filters: 
     activate: true
     items: 
