@@ -20,8 +20,8 @@ items:
 
 dict:
   readmore:
-    fr: Lire plus...
-    en: Read more...
+    fr: Lire plus
+    en: Read more
  associate:
     fr: associé
     en: associate
