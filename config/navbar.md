@@ -10,7 +10,7 @@ buttons-right:
   - name: who-are-we 
     link: /who-are-we
     component: dropdownLink
-    options: [ no-arrow ]
+    options: [ arrowless ]
     label: 
       fr: Qui sommes-nous
       en: Who are we
@@ -43,7 +43,7 @@ buttons-right:
   - name: offer 
     link: /offer
     component: dropdownLink
-    options: [ no-arrow ]
+    options: [ arrowless ]
     label: 
       fr: Offre de services
       en: Services
@@ -76,7 +76,7 @@ buttons-right:
   - name: we-like 
     link: /we-like
     component: dropdownLink
-    options: [ no-arrow ]
+    options: [ arrowless ]
     label: 
       fr: On aime
       en: We like
@@ -97,7 +97,7 @@ buttons-right:
   - name: contact 
     link: /contact
     component: dropdownLink
-    options: [ no-arrow ]
+    options: [ arrowless ]
     label: 
       fr: Contact
       en: Contact
@@ -123,7 +123,7 @@ buttons-right:
 
   - name: switch-locale
     component: switchLocaleDropdown
-    options: [ no-arrow, uppercase, rounded ]
+    options: [ arrowless, uppercase, rounded ]
     
 
 --- 
