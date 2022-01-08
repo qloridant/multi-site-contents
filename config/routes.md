@@ -36,6 +36,7 @@ routes:
 
   - name: origin
     url: /origin
+    options: [ menu ]
     sections: 
       - name: head
         component: TextComponent
