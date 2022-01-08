@@ -5,11 +5,11 @@ routes:
     url: /
     sections: 
       - name: logo
-        component: logoAnimated
+        component: LogoAnimated
         files:
           fr: ./texts/landing/landing-head-fr.md
       - name: head
-        component: textComponent
+        component: TextComponent
         files:
           fr: ./texts/landing/landing-text-fr.md
 
@@ -17,7 +17,7 @@ routes:
     url: /team
     sections: 
       - name: head
-        component: dataCards
+        component: DataGrid
         files:
           fr: ./texts/team/team-data.md
   
@@ -25,7 +25,7 @@ routes:
     url: /who-are-we
     sections: 
       - name: head
-        component: textComponent
+        component: TextComponent
         files:
           fr: ./texts/who-are-we/who-head-fr.md
   
@@ -33,7 +33,7 @@ routes:
     url: /references
     sections: 
       - name: ref-data
-        component: gridComponentData
+        component: DataGrid
         files:
           fr: ./texts/references/references-data.md
   
@@ -41,7 +41,7 @@ routes:
     url: /services
     sections: 
       - name: head
-        component: textComponent
+        component: TextComponent
         files:
           fr: ./texts/who-are-we/landing-head-fr.md
   
@@ -49,7 +49,7 @@ routes:
     url: /we
     sections: 
       - name: head
-        component: textComponent
+        component: TextComponent
         files:
           fr: ./texts/we-like/landing-head-fr.md
   
@@ -57,7 +57,7 @@ routes:
     url: /blog
     sections: 
       - name: head
-        component: textComponent
+        component: TextComponent
         files:
           fr: ./texts/we-like/landing-head-fr.md
   
@@ -65,7 +65,7 @@ routes:
     url: /podcasts
     sections: 
       - name: head
-        component: dataCards
+        component: DataGrid
         files:
           fr: ./texts/we-like/podcast-fr.md
   
@@ -77,7 +77,7 @@ routes:
         files:
           fr: ./texts/legal-mentions/legal.md
       - name: head
-        component: textComponent
+        component: TextComponent
         files:
           fr: ./texts/legal-mentions/legal-fr.md
 --- 
