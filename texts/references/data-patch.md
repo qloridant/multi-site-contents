@@ -64,5 +64,3 @@ images:
   - ./images/references/datapatch/datapatch-04.png
 
 ---
-
-...
