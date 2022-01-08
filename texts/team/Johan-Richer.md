@@ -7,9 +7,9 @@ email: team@multi.coop
 tags: [ conseil ]
 ---
 
-<div class="resume">
+<p class="resume">
   Issu d’une formation en sociologie politique et relations internationales et après un passage au ministère des affaires étrangères, je découvre le numérique en participant à différentes initiatives de cartographie collaborative à vocation humanitaire en France et à l’international : CartONG, MapFugees, Missing Maps...
-</div>
+</p>
 
 J’entre ensuite à Etalab, l'agence française chargée de l’ouverture des données publiques, pour travailler sur les sujets de gouvernement ouvert et créer une “boîte à outils numériques”.
 

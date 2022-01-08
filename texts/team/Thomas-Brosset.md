@@ -8,9 +8,9 @@ email: team@multi.coop
 tags: [ dev, urba ]
 ---
 
-<div class="resume">
+<p class="resume">
   Urbaniste, je me suis formé très rapidement à la géomatique et au développement web pour aider les collectivités locales à mobiliser l’open data pour construire de meilleures politiques publiques. 
-</div>
+</p>
 
 J’ai travaillé sur la modélisation des documents d’urbanisme en 3D, l’identification des risques de pollution à partir des données Basias/Basol et ICPE, le repérage des friches urbaines, et l’observation des prix fonciers. 
 
