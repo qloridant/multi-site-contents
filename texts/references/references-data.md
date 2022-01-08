@@ -2,8 +2,25 @@
 type: project
 
 options:
+  title-key: name
+  cover-key: logo
   columns-size: half
+  has-gallery: true
   card-modal: true
+  miniature-keys: 
+    - description
+    - technos
+    - clients
+  modal-keys: 
+    - clients
+    - period
+    - type
+    - description
+    - approach
+    - resources
+    - technos
+    - refs
+    - code
   tags-fields: 
     - key: technos
       color: primary

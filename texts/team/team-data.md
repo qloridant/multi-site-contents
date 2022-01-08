@@ -2,6 +2,8 @@
 type: people
 
 options:
+  title-key: name
+  cover-key: image
   columns-size: one-third
   has-readmore: true
   has-socials: true
