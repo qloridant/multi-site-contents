@@ -41,12 +41,6 @@ buttons-right:
         label: 
           fr: Références
           en: References
-      - name: jobs
-        link: /jobs
-        component: simpleLink
-        label: 
-          fr: On recrute
-          en: We recruit
 
   - name: offer 
     link: /offer
@@ -134,6 +128,12 @@ buttons-right:
         label: 
           fr: Mentions légales
           en: Legal
+      - name: jobs
+        link: /jobs
+        component: simpleLink
+        label: 
+          fr: On recrute
+          en: We recruit
 
   - name: switch-locale
     component: switchLocaleDropdown
