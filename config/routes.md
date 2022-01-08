@@ -19,10 +19,10 @@ routes:
   - name: team 
     url: /team
     sections: 
-      - name: head
+      - name: data
         component: DataGrid
         files:
-          fr: ./texts/team/team-data.md
+          fr: ./data/team/team-data.md
   
   - name: who-are-we
     url: /who-are-we

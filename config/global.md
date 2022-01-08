@@ -2,15 +2,13 @@
 app_name : Multi
 app_default_locale: fr
 app_locales: [ fr, en ]
-
+app_md_flavor: github
 app_icon: ./images/logos/multi-logo.png
 
 routes: ./config/routes.md
 navbar: ./config/navbar.md
 footer: ./config/footer.md
 legal: ./config/legal.md
-
-app_md_flavor: github
 
 # contents: 
 #   texts: ./texts
