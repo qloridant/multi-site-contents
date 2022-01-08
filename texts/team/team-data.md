@@ -8,12 +8,12 @@ options:
       - name: by-type
     
 items:
-  - file: ./texts/team/Coline-Malivel.md
-  - file: ./texts/team/Julien-Paris.md
   - file: ./texts/team/Johan-Richer.md
+  - file: ./texts/team/Julien-Paris.md
+  - file: ./texts/team/Thomas-Brosset.md
   - file: ./texts/team/Pierre-Camilleri.md
   - file: ./texts/team/Quentin-Loridant.md
-  - file: ./texts/team/Thomas-Brosset.md
+  - file: ./texts/team/Coline-Malivel.md
 
 dict:
   associate:
