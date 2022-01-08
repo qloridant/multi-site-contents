@@ -1,5 +1,5 @@
 ---
-app_name : Multi
+app_name : Coopérative numérique multi
 app_default_locale: fr
 app_locales: [ fr, en ]
 app_md_flavor: github
