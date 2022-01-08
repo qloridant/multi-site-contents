@@ -34,6 +34,18 @@ routes:
         files:
           fr: ./texts/who-are-we/manifesto-fr.md
 
+  - name: origin
+    url: /origin
+    sections: 
+      - name: head
+        component: TextComponent
+        files:
+          fr: ./texts/who-are-we/origin-fr.md
+      - name: head
+        component: TextComponent
+        files:
+          fr: ./texts/who-are-we/goals-fr.md
+
   - name: team 
     url: /team
     sections: 

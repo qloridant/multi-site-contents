@@ -23,6 +23,12 @@ buttons-right:
         label: 
           fr: Manifeste
           en: Manifesto
+      - name: origin
+        link: /origin
+        component: simpleLink
+        label: 
+          fr: Historique
+          en: Origin
       - name: team
         link: /team
         component: simpleLink
