@@ -128,6 +128,15 @@ buttons-right:
         label: 
           fr: Mentions légales
           en: Legal
+
+  - name: recruit 
+    link: /recruit
+    component: dropdownLink
+    options: [ arrowless, hoverable ]
+    label: 
+      fr: Jobs
+      en: Jobs
+    submenu: 
       - name: jobs
         link: /jobs
         component: simpleLink
