@@ -166,6 +166,14 @@ routes:
         files:
           fr: ./texts/contact/contact-head-fr.md
 
+  - name: infos
+    url: /infos
+    sections: 
+      - name: head
+        component: TextComponent
+        files:
+          fr: ./texts/contact/infos-head-fr.md
+
   - name: contribute
     url: /contribute
     sections: 
