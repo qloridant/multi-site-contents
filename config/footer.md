@@ -1,6 +1,8 @@
 ---
 columns: 
   - name: intern
+    label:
+      fr: Informations générales
     links: 
       - url: /manifesto
         label:
