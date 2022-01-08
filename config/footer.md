@@ -6,9 +6,11 @@ columns:
     links: 
       - url: /manifesto
         label:
-          fr: Manifest
+          fr: Manifeste
+          en: Manifesto
       - url: /legal
         label:
           fr: Mentions légales
+          en: Legal mentions
 ---
 
