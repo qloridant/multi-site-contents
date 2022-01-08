@@ -3,6 +3,7 @@ type: project
 
 options:
   columns-size: half
+  card-modal: true
   tags-fields: 
     - key: technos
       color: primary
@@ -12,6 +13,10 @@ options:
       - name: technos
 
 items: 
+  - file: ./texts/references/data-patch.md
+  - file: ./texts/references/data-patch.md
+  - file: ./texts/references/data-patch.md
+  - file: ./texts/references/data-patch.md
   - file: ./texts/references/data-patch.md
 
 dict:
