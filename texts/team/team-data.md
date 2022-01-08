@@ -22,7 +22,7 @@ dict:
   readmore:
     fr: Lire plus
     en: Read more
- associate:
+  associate:
     fr: associé
     en: associate
   founder:
