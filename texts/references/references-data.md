@@ -1,8 +1,7 @@
 ---
-type: references
+type: project
 
 options:
-  has-readmore: true
   tags-fields: 
     - key: technos
       color: primary
