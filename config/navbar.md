@@ -81,33 +81,6 @@ buttons-right:
           fr: Conseil
           en: Audit
 
-  - name: we-like 
-    link: /we-like
-    component: dropdownLink
-    options: [ arrowless, hoverable ]
-    label: 
-      fr: On aime
-      en: We like
-    submenu: 
-      - name: network
-        link: /network
-        component: simpleLink
-        label: 
-          fr: Notre réseau
-          en: Our network
-      - name: podcast
-        link: /podcasts
-        component: simpleLink
-        label: 
-          fr: Podcasts
-          en: Podcasts
-      - name: blog
-        link: /blog
-        component: simpleLink
-        label: 
-          fr: Blog
-          en: Blog
-
   - name: contact 
     link: /contact
     component: dropdownLink
@@ -155,6 +128,33 @@ buttons-right:
         label: 
           fr: On recrute
           en: We recruit
+
+  - name: we-like 
+    link: /we-like
+    component: dropdownLink
+    options: [ arrowless, hoverable ]
+    label: 
+      fr: On aime
+      en: We like
+    submenu: 
+      - name: network
+        link: /network
+        component: simpleLink
+        label: 
+          fr: Notre réseau
+          en: Our network
+      - name: podcast
+        link: /podcasts
+        component: simpleLink
+        label: 
+          fr: Podcasts
+          en: Podcasts
+      - name: blog
+        link: /blog
+        component: simpleLink
+        label: 
+          fr: Blog
+          en: Blog
 
   - name: switch-locale
     component: switchLocaleDropdown
