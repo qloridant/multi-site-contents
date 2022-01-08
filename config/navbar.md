@@ -93,6 +93,12 @@ buttons-right:
         label: 
           fr: Podcasts
           en: Podcasts
+      - name: blog
+        link: /blog
+        component: simpleLink
+        label: 
+          fr: Blog
+          en: Blog
 
   - name: contact 
     link: /contact
