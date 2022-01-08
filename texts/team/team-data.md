@@ -22,6 +22,9 @@ dict:
   readmore:
     fr: Lire plus
     en: Read more
+  readless:
+    fr: Lire moins
+    en: Read less
   associate:
     fr: associé
     en: associate
