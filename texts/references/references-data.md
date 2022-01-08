@@ -2,7 +2,7 @@
 type: references
 
 items: 
-  - ./data/references/data-patch.md
+  - file: ./data/references/data-patch.md
 
 dict:
   clients:

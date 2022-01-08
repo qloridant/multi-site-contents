@@ -1,13 +1,19 @@
 ---
 type: references
 
+options:
+  filters: 
+    activate: true
+    items: 
+      - name: by-type
+    
 items:
-  - ./texts/team/Coline-Malivel.md
-  - ./texts/team/Julien-Paris.md
-  - ./texts/team/Johan-Richer.md
-  - ./texts/team/Pierre-Camilleri.md
-  - ./texts/team/Quentin-Loridant.md
-  - ./texts/team/Thomas-Brosset.md
+  - file: ./texts/team/Coline-Malivel.md
+  - file: ./texts/team/Julien-Paris.md
+  - file: ./texts/team/Johan-Richer.md
+  - file: ./texts/team/Pierre-Camilleri.md
+  - file: ./texts/team/Quentin-Loridant.md
+  - file: ./texts/team/Thomas-Brosset.md
 
 dict:
   associate:
