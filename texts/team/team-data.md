@@ -1,7 +1,8 @@
 ---
-type: references
+type: people
 
 options:
+  columns-size: one-third
   has-readmore: true
   has-socials: true
   tags-fields: 

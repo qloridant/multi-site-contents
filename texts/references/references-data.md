@@ -2,6 +2,7 @@
 type: project
 
 options:
+  columns-size: half
   tags-fields: 
     - key: technos
       color: primary
