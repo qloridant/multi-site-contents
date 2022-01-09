@@ -3,8 +3,7 @@ name: Tableau de bord des aides aux entreprise
 
 clients: 
   - DINUM / Etalab
-  - Ministère des Finances et des Comptes 
-  Publics
+  - Ministère des Finances et des Comptes Publics
 
 period: 
   fr: avril 2020 - mi-mai 2020 (dont rendus intermédiaires)
