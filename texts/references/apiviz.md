@@ -2,11 +2,9 @@
 name: Data Patch
 
 clients: 
-  - Commissariat Général à l'Egalité des Territoires (CGET) et 
-  Carrefour des innovations sociales
-  - Hubs numériques (Occitanie, Pays de la Loire, Bourgogne 
-  Franche Comté)
-  - think tank Décider Ensemble 
+  - Commissariat Général à l'Egalité des Territoires (CGET) et Carrefour des innovations sociales
+  - Hubs numériques (Occitanie, Pays de la Loire, Bourgogne Franche Comté)
+  - Think tank Décider Ensemble 
   - ANCT
 
 period: 
