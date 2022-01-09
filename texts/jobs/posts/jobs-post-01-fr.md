@@ -6,10 +6,9 @@ post-date: Janvier 2022
 ---
 
 <p class="readmore">
-  Vous avez envie de rejoindre une coopérative du numérique d'intérêt général et de proposer une vision pour de la R&D *open source* ?
-
-  🦄 &nbsp; Nous cherchons une personne qui aura envie de **co-construire avec nous la coopérative**, notamment la stratégie de mutualisation et R&D de ses outils et de ses différents projets. 
-
+Vous avez envie de rejoindre une coopérative du numérique d'intérêt général et de proposer une vision pour de la R&D *open source* ?
+<br><br>
+🦄 &nbsp; Nous cherchons une personne qui aura envie de **co-construire avec nous la coopérative**, notamment la stratégie de mutualisation et R&D de ses outils et de ses différents projets.
 </p>
 
 
