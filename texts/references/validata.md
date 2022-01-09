@@ -1,66 +1,50 @@
 ---
-name: Data Patch
+name: Validata
 
 clients: 
-  - Free
-  - ADEME
+  - OpenDataFrance 
+  - Etalab
 
 period: 
-  fr: avril-mai 2021
+  fr: depuis 2018
 
 type:
   fr:
-    - projet-indépendant
-    - communs-numériques
     - open-data
 
 description:
   fr: |
-    Proposer une alternative à des éditeurs en ligne de bases de données propriétaires tels que Airtable, en y ajoutant une fonctionnalité de contribution ouverte / modération (s'inspirant de Wikipedia). 
-
-    Faciliter la mise à jour de données par des communautés d'utilisateurs.
-
-    Application sécurisée d'édition de données tabulaires, de partage de données (API, iframe, widget), de gestion de base de données relationnelles, de contribution ouverte et de modération.
+    Validata a pour objectif de proposer une plateforme de validation des gisements de données ouvertes. 
+    
+    Elle s'adresse aux collectivités françaises soucieuses de valider par un outil externe la qualité et l'interopérabilité des données qu'elles publient. Elle permet aussi à des gestionnaires d'entrepôts de données de qualiﬁer l'intégrité des données qu'ils souhaitent exploiter avant de les importer dans une base de données multi-sources. 
+    
+    Cette plateforme, développée en open source, est accessible à tout acteur public ou privé souhaitant publier ou opérer des données publiques ouvertes.
 
 approach:
   fr: 
-    - tables postgreSQL générées à la volée
-    - backend indépendant et générique d'API-fication
-    - frontend indépendant
-    - multilingue / responsive
+    - Backend indépendant et générique d'API-ﬁcation 
+    - Frontend indépendant
 
 resources:
   fr: 
-    - 1 développeur fullstack
+    - 2 développeurs fullstack 
     - 1 product owner
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ Javascript, Bootstrap, Python, Frictionless Data ]
 
 refs:
-  - name: ademe
-    link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
-    fr: Documentation sur le wiki Résilience des Territoires
-  - name: tipee
-    link: https://fr.tipeee.com/data-patch/
-    fr: Page Tipee
-  - name: anct
-    link: https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/242
-    fr: Proposition sur le site de consultation de l'ANCT
+  - name: validata
+    link: https://validata.fr
+    fr: Validata
 
 code:
-  - name: front
-    link: https://github.com/co-demos/datapatch-front
-    fr: frontend
-  - name: back
-    link: https://github.com/co-demos/fastapi-boilerplate
-    fr: Backend
-
-cover: ./images/references/data-patch/data-patch-logo.png
+  - name: app
+    link: https://git.opendatafrance.net/validata
+    fr: app
 
 images:
-  - ./images/references/data-patch/datapatch-01.png
-  - ./images/references/data-patch/datapatch-02.png
-  - ./images/references/data-patch/datapatch-03.png
-  - ./images/references/data-patch/datapatch-04.png
+  - ./images/references/validata/validata-01.png
+  - ./images/references/validata/validata-02.png
+
 
 ---
