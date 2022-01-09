@@ -9,10 +9,10 @@ options:
   has-readmore: true
   has-socials: true
   tags-keys: 
-    - key: tags
-      color: primary
     - key: status
       color: light
+    - key: tags
+      color: primary
   filters: 
     activate: true
     items: 
