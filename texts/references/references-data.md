@@ -41,6 +41,7 @@ items:
   - file: ./texts/references/play-with-transitions.md
   - file: ./texts/references/digital-transport-for-africa.md
   - file: ./texts/references/observatoire-open-data-des-territoires.md
+  - file: ./texts/references/apiviz.md
 
 
 dict:

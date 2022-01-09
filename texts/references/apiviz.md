@@ -2,65 +2,74 @@
 name: Data Patch
 
 clients: 
-  - Free
-  - ADEME
+  - Commissariat Général à l'Egalité des Territoires (CGET) et 
+  Carrefour des innovations sociales
+  - Hubs numériques (Occitanie, Pays de la Loire, Bourgogne 
+  Franche Comté)
+  - think tank Décider Ensemble 
+  - ANCT
 
 period: 
-  fr: avril-mai 2021
+  fr: depuis 2018 (développement continu)
 
 type:
   fr:
-    - projet-indépendant
-    - communs-numériques
+    - cartographie-interactive 
+    - générique 
     - open-data
 
 description:
   fr: |
-    Proposer une alternative à des éditeurs en ligne de bases de données propriétaires tels que Airtable, en y ajoutant une fonctionnalité de contribution ouverte / modération (s'inspirant de Wikipedia). 
-
-    Faciliter la mise à jour de données par des communautés d'utilisateurs.
-
-    Application sécurisée d'édition de données tabulaires, de partage de données (API, iframe, widget), de gestion de base de données relationnelles, de contribution ouverte et de modération.
+    Outil de cartographie générique permettant la mise en place rapide de sites complets de valorisation de données : cartographie, ﬁches détaillées, ﬁltres, liste de ﬁches, pages statiques, export csv des données...
+    
+    Initialement développé pour le compte du CGET et l'association Carrefour des Innovations sociales, Apiviz sert aujourd'hui d'outil de cartographie interactive pour 6 structures 
+    para-publiques diﬀérentes. 
+    
+    Chacune de ces structures possède une charte graphique propre, des données structurées diﬀéremment, et des contenus textes spéciﬁques. 
 
 approach:
   fr: 
-    - tables postgreSQL générées à la volée
-    - backend indépendant et générique d'API-fication
-    - frontend indépendant
-    - multilingue / responsive
+    - outil générique de cartographie
+    - modularité, frontend et backend séparés
+    - accent mis sur la simplicité d'utilisation et l'UX 
+    - responsive
 
 resources:
   fr: 
-    - 1 développeur fullstack
+    - 1 développeur fullstack lead 
+    - 1 designeuse UX-UI
     - 1 product owner
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ Javascript, Vue.js, Nuxt.js, MapboxGL.js, Flask, Bulma, i18n ]
 
 refs:
-  - name: ademe
-    link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
-    fr: Documentation sur le wiki Résilience des Territoires
-  - name: tipee
-    link: https://fr.tipeee.com/data-patch/
-    fr: Page Tipee
-  - name: anct
-    link: https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/242
-    fr: Proposition sur le site de consultation de l'ANCT
+  - name: ping
+    link: https://ping-carto.netlify.app/
+    fr: Site de cartographie du hub numérique  PiNG 
+  - name: rhinocc
+    link: https://rhinocc.fr/carte/
+    fr: Site de cartographie du hub numérique Occitanie 
+  - name: decider ensemble
+    link: https://decider-ensemble.netlify.app/fiches
+    fr: Site ressources de Décider Ensemble
+  - name: apiviz
+    link: https://apiviz.io
+    fr: Site de démo Apiviz.io
 
 code:
   - name: front
-    link: https://github.com/co-demos/datapatch-front
+    link: https://github.com/co-demos/apiviz-frontend
     fr: frontend
   - name: back
-    link: https://github.com/co-demos/fastapi-boilerplate
+    link: https://github.com/co-demos/apiviz-backend
     fr: Backend
 
-cover: ./images/references/data-patch/data-patch-logo.png
-
 images:
-  - ./images/references/data-patch/datapatch-01.png
-  - ./images/references/data-patch/datapatch-02.png
-  - ./images/references/data-patch/datapatch-03.png
-  - ./images/references/data-patch/datapatch-04.png
+  - ./images/references/apiviz/apiviz-01.png
+  - ./images/references/apiviz/apiviz-02.png
+  - ./images/references/apiviz/apiviz-03.png
+  - ./images/references/apiviz/apiviz-04.png
+  - ./images/references/apiviz/apiviz-05.png
+  - ./images/references/apiviz/apiviz-06.png
 
 ---
