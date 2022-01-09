@@ -1,66 +1,53 @@
 ---
-name: Data Patch
+name: DBnomics
 
 clients: 
-  - Free
-  - ADEME
+  - Agence Française de Développement 
+  - Banque de France
+  - France Stratégie 
+  - CEPREMAP
 
 period: 
-  fr: avril-mai 2021
+  fr: depuis 2017
 
 type:
   fr:
-    - projet-indépendant
-    - communs-numériques
+    - économie
     - open-data
 
 description:
   fr: |
-    Proposer une alternative à des éditeurs en ligne de bases de données propriétaires tels que Airtable, en y ajoutant une fonctionnalité de contribution ouverte / modération (s'inspirant de Wikipedia). 
+    DBnomics est un des plus importantes base de données économiques au monde, agrégeant des centaines de millions de séries temporelles provenant de dizaines de sources (INSEE, Eurostat, FMI, WTO, WB... soit 50+ providers) et les mettant à disposition via une API unique. 
 
-    Faciliter la mise à jour de données par des communautés d'utilisateurs.
-
-    Application sécurisée d'édition de données tabulaires, de partage de données (API, iframe, widget), de gestion de base de données relationnelles, de contribution ouverte et de modération.
+    DBnomics est un projet porté par l'Observatoire Macro du Centre pour la recherche économique et ses applications (CEPREMAP), la Banque de France et France Stratégie sont partenaires du projet et le développement du logiciel est assuré par Jailbreak.DBnomics est par ailleurs lauréat du Programme d’investissement d’avenir (PIA).
 
 approach:
   fr: 
-    - tables postgreSQL générées à la volée
-    - backend indépendant et générique d'API-fication
-    - frontend indépendant
-    - multilingue / responsive
+    - Big Data & Data Visualization
+    - Backend indépendant et générique d'API-ﬁcation 
+    - Frontend indépendant
+    - Multilingue / responsive
 
 resources:
   fr: 
-    - 1 développeur fullstack
+    - 4 développeurs fullstack 
     - 1 product owner
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ Python, Javascript, Svelte, Git, Solr ]
 
 refs:
-  - name: ademe
-    link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
-    fr: Documentation sur le wiki Résilience des Territoires
-  - name: tipee
-    link: https://fr.tipeee.com/data-patch/
-    fr: Page Tipee
-  - name: anct
-    link: https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/242
-    fr: Proposition sur le site de consultation de l'ANCT
+  - name: dbnomics
+    link: https://db.nomics.world/
+    fr: DBnomics
 
 code:
-  - name: front
-    link: https://github.com/co-demos/datapatch-front
-    fr: frontend
-  - name: back
-    link: https://github.com/co-demos/fastapi-boilerplate
-    fr: Backend
-
-cover: ./images/references/data-patch/data-patch-logo.png
+  - name: app
+    link: https://git.nomics.world/dbnomics
+    fr: app
 
 images:
-  - ./images/references/data-patch/datapatch-01.png
-  - ./images/references/data-patch/datapatch-02.png
-  - ./images/references/data-patch/datapatch-03.png
-  - ./images/references/data-patch/datapatch-04.png
+  - ./images/references/dbnomics/dbnomics-01.png
+  - ./images/references/dbnomics/dbnomics-02.png
+  - ./images/references/dbnomics/dbnomics-03.png
 
 ---

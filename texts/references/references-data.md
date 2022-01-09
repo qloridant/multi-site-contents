@@ -45,6 +45,7 @@ items:
   - file: ./texts/references/solidata.md
   - file: ./texts/references/open-scraper.md
   - file: ./texts/references/validata.md
+  - file: ./texts/references/dbnomics.md
 
 
 dict:
