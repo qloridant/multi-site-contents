@@ -1,66 +1,52 @@
 ---
-name: Data Patch
+name: Play With Transitions
 
 clients: 
-  - Free
-  - ADEME
+  - AFD
+  - Wedodata
 
 period: 
-  fr: avril-mai 2021
+  fr: juin 2019
 
 type:
   fr:
-    - projet-indépendant
-    - communs-numériques
-    - open-data
+    - data-visualisation 
+    - design
 
 description:
   fr: |
-    Proposer une alternative à des éditeurs en ligne de bases de données propriétaires tels que Airtable, en y ajoutant une fonctionnalité de contribution ouverte / modération (s'inspirant de Wikipedia). 
+    Manipulation de "cartes" interactives contenant des citations visant à aider des porteurs de projet dans leur démarche. 
 
-    Faciliter la mise à jour de données par des communautés d'utilisateurs.
+    Les cartes possèdent un "dos" sur lequel sont indiquées des références / liens externes complémentaires. 
 
-    Application sécurisée d'édition de données tabulaires, de partage de données (API, iframe, widget), de gestion de base de données relationnelles, de contribution ouverte et de modération.
+    Les cartes peuvent être ajoutées à une liste personnelle de favoris et exportées au format pdf. 
 
 approach:
   fr: 
-    - tables postgreSQL générées à la volée
-    - backend indépendant et générique d'API-fication
-    - frontend indépendant
-    - multilingue / responsive
+    - données provenant de Google Sheet 
+    - responsive
+    - multilingue (français-anglais)
 
 resources:
   fr: 
-    - 1 développeur fullstack
-    - 1 product owner
+    - 1 développeur frontend 
+    - 1 designer UI
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js ]
 
 refs:
-  - name: ademe
-    link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
-    fr: Documentation sur le wiki Résilience des Territoires
-  - name: tipee
-    link: https://fr.tipeee.com/data-patch/
-    fr: Page Tipee
-  - name: anct
-    link: https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/242
-    fr: Proposition sur le site de consultation de l'ANCT
+  - name: site
+    link: http://playwithtransitions.cards
+    fr: Play with transitions
 
 code:
-  - name: front
-    link: https://github.com/co-demos/datapatch-front
-    fr: frontend
-  - name: back
-    link: https://github.com/co-demos/fastapi-boilerplate
-    fr: Backend
+  - name: code
+    link: null
+    fr: (code source non publié par le client Wedodata)
 
-cover: ./images/references/data-patch/data-patch-logo.png
 
 images:
-  - ./images/references/data-patch/datapatch-01.png
-  - ./images/references/data-patch/datapatch-02.png
-  - ./images/references/data-patch/datapatch-03.png
-  - ./images/references/data-patch/datapatch-04.png
-
+  - ./images/references/play-with-transitions/play-with-transitions-01.png
+  - ./images/references/play-with-transitions/play-with-transitions-02.png
+  - ./images/references/play-with-transitions/play-with-transitions-03.png
 ---
