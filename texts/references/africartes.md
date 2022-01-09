@@ -2,65 +2,65 @@
 name: Africartes
 
 clients: 
-  - Free
-  - ADEME
+  - Agence française de développement (AFD)
 
 period: 
-  fr: avril-mai 2021
+  fr: 2020
 
 type:
   fr:
-    - projet-indépendant
-    - communs-numériques
+    - cartographie 
     - open-data
 
 description:
   fr: |
-    Proposer une alternative à des éditeurs en ligne de bases de données propriétaires tels que Airtable, en y ajoutant une fonctionnalité de contribution ouverte / modération (s'inspirant de Wikipedia). 
+    L’Afrique vue au travers d’une large sélection 
+    d’indicateurs couvrant plus d’une dizaine de 
+    thématiques (économie, ﬁnances publiques, emploi, 
+    population, éducation, santé, environnement, etc.)
 
-    Faciliter la mise à jour de données par des communautés d'utilisateurs.
+    L’application a été conçue pour aborder ces sujets 
+    dans leur complexité, en zoomant et comparant les 
+    diﬀérents territoires au niveau mondial, continental, 
+    régional et en descendant jusqu’à l’échelle nationale. 
 
-    Application sécurisée d'édition de données tabulaires, de partage de données (API, iframe, widget), de gestion de base de données relationnelles, de contribution ouverte et de modération.
+    Au-delà de la dimension géographique, la temporalité 
+    n’est pas en reste puisqu’il l’application rend possible 
+    l’analyse et la  comparaison des indicateurs et pays 
+    sur un temps long, voire de façon prospective pour 
+    les années à venir.
 
 approach:
   fr: 
-    - tables postgreSQL générées à la volée
-    - backend indépendant et générique d'API-fication
-    - frontend indépendant
-    - multilingue / responsive
+    - Données mises à jour dynamiquement 
+    - Data Visualization
+    - Backend indépendant et générique d'API-ﬁcation 
+    - Frontend indépendant
 
 resources:
   fr: 
-    - 1 développeur fullstack
+    - 3 développeurs fullstack 
     - 1 product owner
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ Javascript, Svelte, Tailwind CSS, Python, FastAPI ]
 
 refs:
-  - name: ademe
-    link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
-    fr: Documentation sur le wiki Résilience des Territoires
-  - name: tipee
-    link: https://fr.tipeee.com/data-patch/
-    fr: Page Tipee
-  - name: anct
-    link: https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/242
-    fr: Proposition sur le site de consultation de l'ANCT
+  - name: site
+    link: https://www.africartes.fr/maps
+    fr: africartes.fr/maps
+
 
 code:
   - name: front
-    link: https://github.com/co-demos/datapatch-front
-    fr: frontend
-  - name: back
-    link: https://github.com/co-demos/fastapi-boilerplate
-    fr: Backend
+    link: https://gitlab.com/africartes/
+    fr: code source
 
-cover: ./images/references/data-patch/data-patch-logo.png
+cover: ./images/references/africartes/africartes-logo.png
 
 images:
-  - ./images/references/data-patch/datapatch-01.png
-  - ./images/references/data-patch/datapatch-02.png
-  - ./images/references/data-patch/datapatch-03.png
-  - ./images/references/data-patch/datapatch-04.png
+  - ./images/references/africartes/africartes-01.png
+  - ./images/references/africartes/africartes-02.png
+  - ./images/references/africartes/africartes-03.png
+
 
 ---

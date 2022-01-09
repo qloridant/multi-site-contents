@@ -33,10 +33,9 @@ options:
 
 items: 
   - file: ./texts/references/data-patch.md
-  - file: ./texts/references/data-patch.md
-  - file: ./texts/references/data-patch.md
-  - file: ./texts/references/data-patch.md
-  - file: ./texts/references/data-patch.md
+  - file: ./texts/references/barometre-action-publique.md
+  - file: ./texts/references/africartes.md
+
 
 dict:
   clients:
