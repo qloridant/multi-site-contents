@@ -8,9 +8,9 @@ options:
   has-readmore: true
   tags-keys: 
     - key: status
-      color: light
-    - key: tags
       color: primary
+    - key: tags
+      color: info
   filters: 
     activate: true
     items: 
