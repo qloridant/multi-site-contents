@@ -24,8 +24,7 @@ description:
 approach:
   fr: 
     - Dashboard et cartographie
-    - Traitement à partir de diﬀérentes sources de 
-    données (Google Sheets, API Adresse, API Sirene…) 
+    - Traitement à partir de diﬀérentes sources de données (Google Sheets, API Adresse, API Sirene…) 
     - Mise à jour automatique et quotidienne 
     (intégration continue)
 
