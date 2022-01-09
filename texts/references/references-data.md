@@ -3,7 +3,7 @@ type: project
 
 options:
   title-key: name
-  cover-key: logo
+  cover-key: cover
   cover-ratio: 6by4
   columns-size: one-third
   has-gallery: true

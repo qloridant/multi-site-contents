@@ -1,5 +1,5 @@
 ---
-name: Data Patch
+name: Africartes
 
 clients: 
   - Free
@@ -58,9 +58,9 @@ code:
 cover: ./images/references/data-patch/data-patch-logo.png
 
 images:
-  - ./images/references/data-patch/data-patch-01.png
-  - ./images/references/data-patch/data-patch-02.png
-  - ./images/references/data-patch/data-patch-03.png
-  - ./images/references/data-patch/data-patch-04.png
+  - ./images/references/data-patch/datapatch-01.png
+  - ./images/references/data-patch/datapatch-02.png
+  - ./images/references/data-patch/datapatch-03.png
+  - ./images/references/data-patch/datapatch-04.png
 
 ---
