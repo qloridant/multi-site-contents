@@ -29,6 +29,7 @@ options:
     activate: true
     items: 
       - name: technos
+      - name: clients
 
 items: 
   - file: ./texts/references/data-patch.md
