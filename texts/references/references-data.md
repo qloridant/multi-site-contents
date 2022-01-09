@@ -43,6 +43,7 @@ items:
   - file: ./texts/references/observatoire-open-data-des-territoires.md
   - file: ./texts/references/apiviz.md
   - file: ./texts/references/solidata.md
+  - file: ./texts/references/open-scraper.md
 
 
 dict:

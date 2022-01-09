@@ -1,66 +1,52 @@
 ---
-name: Data Patch
+name: Open Scraper
 
 clients: 
-  - Free
-  - ADEME
+  - Commissariat Général à l'Egalité des Territoires (CGET)
+  - projet libre
 
 period: 
-  fr: avril-mai 2021
+  fr: printemps 2018
 
 type:
   fr:
-    - projet-indépendant
-    - communs-numériques
-    - open-data
+    - projet-libre 
+    - web-scrapping
 
 description:
   fr: |
-    Proposer une alternative à des éditeurs en ligne de bases de données propriétaires tels que Airtable, en y ajoutant une fonctionnalité de contribution ouverte / modération (s'inspirant de Wikipedia). 
-
-    Faciliter la mise à jour de données par des communautés d'utilisateurs.
-
-    Application sécurisée d'édition de données tabulaires, de partage de données (API, iframe, widget), de gestion de base de données relationnelles, de contribution ouverte et de modération.
+  Outil générique de web-scrapping, conﬁgurable via une interface web.
+  
+  Projet initialement conçu dans le cadre du projet "Carrefour des innovations sociales" Open Scraper permet de  scrapper les contenus de différents sites des membres d'une association regroupant plusieurs structures. 
+  
+  Toutes ces structures et ces sites possédaient des données relatives à des innovations sociales qu'il s'agissait à la fois d'agréger et d'homogénéiser.
 
 approach:
   fr: 
-    - tables postgreSQL générées à la volée
-    - backend indépendant et générique d'API-fication
-    - frontend indépendant
-    - multilingue / responsive
+    - généricité
+    - API de publication des données scrapées
 
 resources:
   fr: 
     - 1 développeur fullstack
-    - 1 product owner
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ Tornado, Scrapy, MongoDB ]
 
 refs:
-  - name: ademe
-    link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
-    fr: Documentation sur le wiki Résilience des Territoires
-  - name: tipee
-    link: https://fr.tipeee.com/data-patch/
-    fr: Page Tipee
-  - name: anct
-    link: https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/242
-    fr: Proposition sur le site de consultation de l'ANCT
+  - name: site
+    link: http://www.cis-openscraper.com
+    fr: Open scraper
+
 
 code:
-  - name: front
-    link: https://github.com/co-demos/datapatch-front
-    fr: frontend
-  - name: back
-    link: https://github.com/co-demos/fastapi-boilerplate
-    fr: Backend
-
-cover: ./images/references/data-patch/data-patch-logo.png
+  - name: app
+    link: https://github.com/entrepreneur-interet-general/OpenScraper
+    fr: app
 
 images:
-  - ./images/references/data-patch/datapatch-01.png
-  - ./images/references/data-patch/datapatch-02.png
-  - ./images/references/data-patch/datapatch-03.png
-  - ./images/references/data-patch/datapatch-04.png
+  - ./images/references/open-scraper/open-scraper-01.png
+  - ./images/references/open-scraper/open-scraper-02.png
+  - ./images/references/open-scraper/open-scraper-03.png
+  - ./images/references/open-scraper/open-scraper-04.png
 
 ---
