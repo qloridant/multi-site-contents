@@ -15,11 +15,11 @@ type:
 
 description:
   fr: |
-  Outil générique de web-scrapping, conﬁgurable via une interface web.
-  
-  Projet initialement conçu dans le cadre du projet "Carrefour des innovations sociales" Open Scraper permet de  scrapper les contenus de différents sites des membres d'une association regroupant plusieurs structures. 
-  
-  Toutes ces structures et ces sites possédaient des données relatives à des innovations sociales qu'il s'agissait à la fois d'agréger et d'homogénéiser.
+    Outil générique de web-scrapping, conﬁgurable via une interface web.
+    
+    Projet initialement conçu dans le cadre du projet "Carrefour des innovations sociales" Open Scraper permet de  scrapper les contenus de différents sites des membres d'une association regroupant plusieurs structures. 
+    
+    Toutes ces structures et ces sites possédaient des données relatives à des innovations sociales qu'il s'agissait à la fois d'agréger et d'homogénéiser.
 
 approach:
   fr: 
