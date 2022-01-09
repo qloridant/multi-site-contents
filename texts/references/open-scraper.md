@@ -48,5 +48,7 @@ images:
   - ./images/references/open-scraper/open-scraper-02.png
   - ./images/references/open-scraper/open-scraper-03.png
   - ./images/references/open-scraper/open-scraper-04.png
+  - ./images/references/open-scraper/open-scraper-05.png
+  - ./images/references/open-scraper/open-scraper-06.png
 
 ---
