@@ -2,6 +2,7 @@
 title: Directrice / Directeur technique
 status: [ open ]
 tags: [ dev, CTO ]
+post-date: Janvier 2022
 ---
 
 <p class="readmore">
