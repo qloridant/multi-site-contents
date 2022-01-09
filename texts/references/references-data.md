@@ -38,7 +38,8 @@ items:
   - file: ./texts/references/aides-entreprises.md
   - file: ./texts/references/open-mobility-indicators.md
   - file: ./texts/references/parcours-entree-dans-emploi.md
-
+  - file: ./texts/references/play-with-transitions.md
+  - file: ./texts/references/digital-transport-for-africa.md
 
 dict:
   clients:
