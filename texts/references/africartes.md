@@ -55,8 +55,6 @@ code:
     link: https://gitlab.com/africartes/
     fr: code source
 
-cover: ./images/references/africartes/africartes-logo.png
-
 images:
   - ./images/references/africartes/africartes-01.png
   - ./images/references/africartes/africartes-02.png
