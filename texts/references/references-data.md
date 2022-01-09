@@ -3,8 +3,8 @@ type: project
 
 options:
   title-key: name
-  cover-key: cover
-  cover-ratio: 6by4
+  images-key: images
+  images-ratio: 6by4
   columns-size: one-third
   has-gallery: true
   card-modal: true
