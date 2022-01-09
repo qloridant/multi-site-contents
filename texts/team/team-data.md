@@ -5,7 +5,7 @@ options:
   title-key: name
   cover-key: image
   cover-ratio: 4by4
-  columns-size: one-third
+  columns-size: half
   has-readmore: true
   has-socials: true
   tags-keys: 
