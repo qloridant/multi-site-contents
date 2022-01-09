@@ -5,7 +5,7 @@ options:
   title-key: name
   cover-key: logo
   cover-ratio: 6by4
-  columns-size: one-quarter
+  columns-size: one-third
   has-gallery: true
   card-modal: true
   miniature-keys: 
