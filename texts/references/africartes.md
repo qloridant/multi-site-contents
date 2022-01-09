@@ -24,11 +24,7 @@ description:
     diﬀérents territoires au niveau mondial, continental, 
     régional et en descendant jusqu’à l’échelle nationale. 
 
-    Au-delà de la dimension géographique, la temporalité 
-    n’est pas en reste puisqu’il l’application rend possible 
-    l’analyse et la  comparaison des indicateurs et pays 
-    sur un temps long, voire de façon prospective pour 
-    les années à venir.
+    Au-delà de la dimension géographique, la temporalité n’est pas en reste puisqu’il l’application rend possible l’analyse et la  comparaison des indicateurs et pays sur un temps long, voire de façon prospective pour les années à venir.
 
 approach:
   fr: 

@@ -3,11 +3,9 @@ background-color: white
 logo-left: ./images/logos/logo-multi-003.png
 fixed-top: true
 
-buttons-let-centered: false
+buttons-left-centered: true
 
 buttons-left: 
-
-buttons-right: 
 
   - name: who-are-we 
     link: /who-are-we
@@ -107,6 +105,8 @@ buttons-right:
         label: 
           fr: Mentions légales
           en: Legal
+
+buttons-right: 
 
   - name: recruit 
     link: /recruit
