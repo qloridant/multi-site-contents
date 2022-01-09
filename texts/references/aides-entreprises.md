@@ -33,8 +33,7 @@ approach:
   fr: 
     - full frontend / mobile-ﬁrst / responsive
     - réalisation en 6 semaines lors du 1er conﬁnement 
-    - conception d'un socle logiciel réutilisable 
-    (framework) appelé Odamap
+    - conception d'un socle logiciel réutilisable (framework) appelé Odamap
 
 resources:
   fr: 
