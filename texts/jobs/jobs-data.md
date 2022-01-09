@@ -18,7 +18,7 @@ options:
       - name: tag
     
 items:
-  - file: ./texts/team/Johan-Richer.md
+  - file: ./texts/jobs/posts/jobs-post-01-fr.md
 
 dict:
   associate:
