@@ -2,8 +2,7 @@
 name: Solidata
 
 clients: 
-  - Commissariat Général à l'Egalité des 
-  Territoires (CGET)
+  - Commissariat Général à l'Egalité des Territoires (CGET)
   - projet libre
 
 period: 
