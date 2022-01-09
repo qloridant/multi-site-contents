@@ -61,6 +61,7 @@ images:
   - ./images/references/africartes/africartes-01.png
   - ./images/references/africartes/africartes-02.png
   - ./images/references/africartes/africartes-03.png
+  - ./images/references/africartes/africartes-04.png
 
 
 ---

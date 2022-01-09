@@ -47,8 +47,6 @@ code:
     link: https://github.com/etalab/barometre-resultats
     fr: Code source de l'application
 
-cover: ./images/references/barometre-action-publique/barometre-action-publique-01.png
-
 images:
   - ./images/references/barometre-action-publique/barometre-action-publique-01.png
   - ./images/references/barometre-action-publique/barometre-action-publique-02.png

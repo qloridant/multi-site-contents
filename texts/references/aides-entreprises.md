@@ -1,66 +1,62 @@
 ---
-name: Data Patch
+name: Tableau de bord des aides aux entreprise
 
 clients: 
-  - Free
-  - ADEME
+  - DINUM / Etalab
+  - Ministère des Finances et des Comptes 
+  Publics
 
 period: 
-  fr: avril-mai 2021
+  fr: avril 2020 - mi-mai 2020 (dont rendus intermédiaires)
 
 type:
   fr:
-    - projet-indépendant
-    - communs-numériques
-    - open-data
+    - data-visualisation 
+    - politique
 
 description:
   fr: |
-    Proposer une alternative à des éditeurs en ligne de bases de données propriétaires tels que Airtable, en y ajoutant une fonctionnalité de contribution ouverte / modération (s'inspirant de Wikipedia). 
+    Data-visualisation et cartographie interactive 
+    d'une demi-douzaine de jeux de données 
+    diﬀérents relatifs aux aides aux entreprises 
+    versées lors de la crise sanitaire du covid-19..
 
-    Faciliter la mise à jour de données par des communautés d'utilisateurs.
+    Mailles nationale, régionale, et 
+    départementales, variant en fonction des 
+    indicateurs. Intégration sur le site oﬃciel du 
+    ministère.
 
-    Application sécurisée d'édition de données tabulaires, de partage de données (API, iframe, widget), de gestion de base de données relationnelles, de contribution ouverte et de modération.
+    Mise à jour régulière et/ou irrégulière des 
+    jeux de données en fonction des référents 
+    données dans les ministères producteurs.
 
 approach:
   fr: 
-    - tables postgreSQL générées à la volée
-    - backend indépendant et générique d'API-fication
-    - frontend indépendant
-    - multilingue / responsive
+    - full frontend / mobile-ﬁrst / responsive
+    - réalisation en 6 semaines lors du 1er conﬁnement 
+    - conception d'un socle logiciel réutilisable 
+    (framework) appelé Odamap
 
 resources:
   fr: 
-    - 1 développeur fullstack
-    - 1 product owner
+    - 1 développeur frontend 
+    - 1 data engineer
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ Javascript, Vue.js, Nuxt.js, ApexCharts, MapboxGL.js ]
 
 refs:
-  - name: ademe
-    link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
-    fr: Documentation sur le wiki Résilience des Territoires
-  - name: tipee
-    link: https://fr.tipeee.com/data-patch/
-    fr: Page Tipee
-  - name: anct
-    link: https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/242
-    fr: Proposition sur le site de consultation de l'ANCT
+  - name: site
+    link: https://aides-entreprises.data.gouv.fr/
+    fr: version en ligne
 
 code:
   - name: front
-    link: https://github.com/co-demos/datapatch-front
-    fr: frontend
-  - name: back
-    link: https://github.com/co-demos/fastapi-boilerplate
-    fr: Backend
-
-cover: ./images/references/data-patch/data-patch-logo.png
+    link: https://github.com/etalab/dashboard-aides-entreprises
+    fr: code source
 
 images:
-  - ./images/references/data-patch/datapatch-01.png
-  - ./images/references/data-patch/datapatch-02.png
-  - ./images/references/data-patch/datapatch-03.png
-  - ./images/references/data-patch/datapatch-04.png
+  - ./images/references/aides-entreprises/aides-entreprises-01.png
+  - ./images/references/aides-entreprises/aides-entreprises-02.png
+  - ./images/references/aides-entreprises/aides-entreprises-03.png
 
 ---
