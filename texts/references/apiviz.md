@@ -1,5 +1,5 @@
 ---
-name: Data Patch
+name: Apiviz
 
 clients: 
   - Commissariat Général à l'Egalité des Territoires (CGET) et Carrefour des innovations sociales
