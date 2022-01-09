@@ -1,66 +1,56 @@
 ---
-name: Data Patch
+name: Solidata
 
 clients: 
-  - Free
-  - ADEME
+  - Commissariat Général à l'Egalité des 
+  Territoires (CGET)
+  - projet libre
 
 period: 
-  fr: avril-mai 2021
+  fr: automne-hiver 2018
 
 type:
   fr:
-    - projet-indépendant
-    - communs-numériques
+    - projet-libre 
+    - API-générique 
     - open-data
 
 description:
   fr: |
-    Proposer une alternative à des éditeurs en ligne de bases de données propriétaires tels que Airtable, en y ajoutant une fonctionnalité de contribution ouverte / modération (s'inspirant de Wikipedia). 
-
-    Faciliter la mise à jour de données par des communautés d'utilisateurs.
-
-    Application sécurisée d'édition de données tabulaires, de partage de données (API, iframe, widget), de gestion de base de données relationnelles, de contribution ouverte et de modération.
+    Solidata a été conçu aﬁn de permettre un API-ﬁcation générique de jeux de données, en général de type tabulaire. L'outil permet également d'agréger des données structurées différemment et de les homogénéiser autour d'un même schéma de données.
+    
+    Après avoir été initialement développé dans le cadre du CGET et du programme Entrepreneur d'Intérêt Général (Etalab) cet outil est toujours en production et maintenu de manière indépendante. Il permet de servir toutes les données des cartographies interactives Apiviz.
 
 approach:
   fr: 
-    - tables postgreSQL générées à la volée
-    - backend indépendant et générique d'API-fication
-    - frontend indépendant
-    - multilingue / responsive
+    - généricité
+    - backend et frontend séparés 
+    - backend CORS
+    - responsive
 
 resources:
   fr: 
     - 1 développeur fullstack
-    - 1 product owner
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ Flask RestPlus, MongoDB, Nuxt, Vuetify, Pandas, MongoDB, Oauth2 ]
 
 refs:
-  - name: ademe
-    link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
-    fr: Documentation sur le wiki Résilience des Territoires
-  - name: tipee
-    link: https://fr.tipeee.com/data-patch/
-    fr: Page Tipee
-  - name: anct
-    link: https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/242
-    fr: Proposition sur le site de consultation de l'ANCT
+  - name: solidata
+    link: https://solidata.co-demos.com
+    fr: Solidata
 
 code:
   - name: front
-    link: https://github.com/co-demos/datapatch-front
+    link: https://github.com/co-demos/solidata-frontend 
     fr: frontend
   - name: back
-    link: https://github.com/co-demos/fastapi-boilerplate
+    link: https://github.com/co-demos/solidata-backend
     fr: Backend
 
-cover: ./images/references/data-patch/data-patch-logo.png
-
 images:
-  - ./images/references/data-patch/datapatch-01.png
-  - ./images/references/data-patch/datapatch-02.png
-  - ./images/references/data-patch/datapatch-03.png
-  - ./images/references/data-patch/datapatch-04.png
+  - ./images/references/solidata/solidata-01.png
+  - ./images/references/solidata/solidata-02.png
+  - ./images/references/solidata/solidata-03.png
+  - ./images/references/solidata/solidata-04.png
 
 ---
