@@ -1,66 +1,53 @@
 ---
-name: Data Patch
+name: Parcours d'Entrée dans l'Emploi
 
 clients: 
-  - Free
-  - ADEME
+  - Région Ile de France 
+  - France Compétences
+  - Institut des politiques publiques (Ecole d’ économie de Paris)
 
 period: 
-  fr: avril-mai 2021
+  fr: 2020
 
 type:
   fr:
-    - projet-indépendant
-    - communs-numériques
-    - open-data
+    - emploi 
+    - service-public 
 
 description:
   fr: |
-    Proposer une alternative à des éditeurs en ligne de bases de données propriétaires tels que Airtable, en y ajoutant une fonctionnalité de contribution ouverte / modération (s'inspirant de Wikipedia). 
+    Mesurer l’eﬀet de la participation à PEE sur les trajectoires professionnelles des bénéﬁciaires du RSA et sur leur insertion sociale.
 
-    Faciliter la mise à jour de données par des communautés d'utilisateurs.
+    L’objectif est d’accroître la connaissance relative aux politiques publiques d’insertion, visant spéciﬁquement  les personnes éloignées du marché du travail.
+    
+    Si l’effet mesuré du dispositif PEE est positif cela constitue un argument de taille pour pérenniser ce dispositif. 
 
-    Application sécurisée d'édition de données tabulaires, de partage de données (API, iframe, widget), de gestion de base de données relationnelles, de contribution ouverte et de modération.
+    Des résultats incontestables lorsque le tirage au sort est respecté.
 
 approach:
   fr: 
-    - tables postgreSQL générées à la volée
-    - backend indépendant et générique d'API-fication
-    - frontend indépendant
-    - multilingue / responsive
+    - Questionnaire évolutif 
+    - Backoﬃce intuitif
 
 resources:
   fr: 
-    - 1 développeur fullstack
-    - 1 product owner
+    - 2 développeurs fullstack
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ SurveyJS, Python, Flask, Bootstrap ]
 
 refs:
-  - name: ademe
-    link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
-    fr: Documentation sur le wiki Résilience des Territoires
-  - name: tipee
-    link: https://fr.tipeee.com/data-patch/
-    fr: Page Tipee
-  - name: anct
-    link: https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/242
-    fr: Proposition sur le site de consultation de l'ANCT
+  - name: app
+    link: https://evaluation-pee.ipp.eu/
+    fr: Site
 
 code:
-  - name: front
-    link: https://github.com/co-demos/datapatch-front
-    fr: frontend
-  - name: back
-    link: https://github.com/co-demos/fastapi-boilerplate
-    fr: Backend
+  - name: code
+    link: https://evaluation-pee.ipp.eu/
+    fr: code source
 
-cover: ./images/references/data-patch/data-patch-logo.png
 
 images:
-  - ./images/references/data-patch/datapatch-01.png
-  - ./images/references/data-patch/datapatch-02.png
-  - ./images/references/data-patch/datapatch-03.png
-  - ./images/references/data-patch/datapatch-04.png
+  - ./images/references/parcours-entree-dans-emploi/parcours-entree-dans-emploi-01.png
+  - ./images/references/parcours-entree-dans-emploi/parcours-entree-dans-emploi-02.png
 
 ---

@@ -37,6 +37,7 @@ items:
   - file: ./texts/references/africartes.md
   - file: ./texts/references/aides-entreprises.md
   - file: ./texts/references/open-mobility-indicators.md
+  - file: ./texts/references/parcours-entree-dans-emploi.md
 
 
 dict:
