@@ -55,12 +55,12 @@ code:
     link: https://github.com/co-demos/fastapi-boilerplate
     fr: Backend
 
-logo: ./images/references/datapatch/data-patch-logo.png
+logo: ./images/references/data-patch/data-patch-logo.png
 
 images:
-  - ./images/references/datapatch/datapatch-01.png
-  - ./images/references/datapatch/datapatch-02.png
-  - ./images/references/datapatch/datapatch-03.png
-  - ./images/references/datapatch/datapatch-04.png
+  - ./images/references/data-patch/datapatch-01.png
+  - ./images/references/data-patch/datapatch-02.png
+  - ./images/references/data-patch/datapatch-03.png
+  - ./images/references/data-patch/datapatch-04.png
 
 ---
