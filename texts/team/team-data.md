@@ -17,7 +17,7 @@ options:
     activate: true
     items: 
       - name: status
-      - name: tag
+      - name: tags
     
 items:
   - file: ./texts/team/Johan-Richer.md
