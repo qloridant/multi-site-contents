@@ -55,7 +55,7 @@ code:
     link: https://github.com/co-demos/fastapi-boilerplate
     fr: Backend
 
-logo: ./images/references/datapatch/datapatch-logo.png
+logo: ./images/references/datapatch/data-patch-logo.png
 
 images:
   - ./images/references/datapatch/datapatch-01.png
