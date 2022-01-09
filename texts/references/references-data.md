@@ -36,6 +36,7 @@ items:
   - file: ./texts/references/barometre-action-publique.md
   - file: ./texts/references/africartes.md
   - file: ./texts/references/aides-entreprises.md
+  - file: ./texts/references/open-mobility-indicators.md
 
 
 dict:

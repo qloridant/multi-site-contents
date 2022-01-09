@@ -1,66 +1,65 @@
 ---
-name: Data Patch
+name: Open Mobility Indicators
 
 clients: 
-  - Free
   - ADEME
+  - Fabrique des Mobilités 
+  - Région Sud PACA
 
 period: 
-  fr: avril-mai 2021
+  fr: depuis 2020
 
 type:
   fr:
-    - projet-indépendant
-    - communs-numériques
+    - transport
     - open-data
 
 description:
   fr: |
-    Proposer une alternative à des éditeurs en ligne de bases de données propriétaires tels que Airtable, en y ajoutant une fonctionnalité de contribution ouverte / modération (s'inspirant de Wikipedia). 
+    Open Mobility Indicators est un ensemble 
+    d’outils logiciels libres et collaboratifs qui 
+    traite les données ouvertes pour créer des 
+    indicateurs de mobilité durable.
 
-    Faciliter la mise à jour de données par des communautés d'utilisateurs.
-
-    Application sécurisée d'édition de données tabulaires, de partage de données (API, iframe, widget), de gestion de base de données relationnelles, de contribution ouverte et de modération.
+    Les données résultant des traitements permet 
+    de créer des applications qui rendent visible 
+    l’accessibilité à pied d’un quartier ou d’une ville, 
+    pour une région ou un pays.
 
 approach:
   fr: 
-    - tables postgreSQL générées à la volée
-    - backend indépendant et générique d'API-fication
+    - backend indépendant et générique d'API-ﬁcation 
     - frontend indépendant
-    - multilingue / responsive
+    - multilingue / responsive 
+    - Récupération de données
 
 resources:
   fr: 
-    - 1 développeur fullstack
+    - 3 développeurs fullstack 
     - 1 product owner
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ Jupyter Notebooks, Papermill, Mapbox GL JS, Python, Javascript, Svelte ]
 
 refs:
-  - name: ademe
-    link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
-    fr: Documentation sur le wiki Résilience des Territoires
-  - name: tipee
-    link: https://fr.tipeee.com/data-patch/
-    fr: Page Tipee
-  - name: anct
-    link: https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/242
-    fr: Proposition sur le site de consultation de l'ANCT
+  - name: omi
+    link: https://openmobilityindicators.org
+    fr: openmobilityindicators.org
+  - name: app
+    link: https://app.openmobilityindicators.org/?i=dead_ends,omi_score,pop_density&lat=44.089291&lng=6.242589&z=12
+    fr: app
+
 
 code:
   - name: front
-    link: https://github.com/co-demos/datapatch-front
-    fr: frontend
+    link: https://gitlab.com/open-mobility-indicators/carto
+    fr: carto
   - name: back
-    link: https://github.com/co-demos/fastapi-boilerplate
-    fr: Backend
-
-cover: ./images/references/data-patch/data-patch-logo.png
+    link: https://gitlab.com/open-mobility-indicators/omi-ops
+    fr: omi ops
 
 images:
-  - ./images/references/data-patch/datapatch-01.png
-  - ./images/references/data-patch/datapatch-02.png
-  - ./images/references/data-patch/datapatch-03.png
-  - ./images/references/data-patch/datapatch-04.png
+  - ./images/references/open-mobility-indicators/open-mobility-indicators-01.png
+  - ./images/references/open-mobility-indicators/open-mobility-indicators-02.png
+  - ./images/references/open-mobility-indicators/open-mobility-indicators-03.png
 
 ---
