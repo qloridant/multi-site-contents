@@ -6,6 +6,11 @@ options:
   cover-key: false
   columns-size: half
   has-readmore: true
+  card-modal: true
+  miniature-keys: 
+    - status
+    - tags
+  modal-keys: false
   tags-keys: 
     - key: status
       color: primary
