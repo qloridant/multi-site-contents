@@ -40,6 +40,8 @@ items:
   - file: ./texts/references/parcours-entree-dans-emploi.md
   - file: ./texts/references/play-with-transitions.md
   - file: ./texts/references/digital-transport-for-africa.md
+  - file: ./texts/references/observatoire-open-data-des-territoires.md
+
 
 dict:
   clients:

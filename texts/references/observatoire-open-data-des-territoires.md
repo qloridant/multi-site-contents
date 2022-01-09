@@ -1,66 +1,53 @@
 ---
-name: Data Patch
+name: Observatoire de l’open data des territoires
 
 clients: 
-  - Free
-  - ADEME
+  - Open Data France 
+  - Caisse des dépôts 
+  - Etalab
 
 period: 
-  fr: avril-mai 2021
+  fr: depuis 2018
 
 type:
   fr:
-    - projet-indépendant
-    - communs-numériques
-    - open-data
+    - territoires 
+    - open-data 
+    - dataviz
 
 description:
   fr: |
-    Proposer une alternative à des éditeurs en ligne de bases de données propriétaires tels que Airtable, en y ajoutant une fonctionnalité de contribution ouverte / modération (s'inspirant de Wikipedia). 
-
-    Faciliter la mise à jour de données par des communautés d'utilisateurs.
-
-    Application sécurisée d'édition de données tabulaires, de partage de données (API, iframe, widget), de gestion de base de données relationnelles, de contribution ouverte et de modération.
+    La capacité de mesure du développement de l’open data dans les territoires est essentielle pour la compréhension des enjeux territoriaux et pour guider les actions dans ce domaine.
+    
+    L’Observatoire open data des territoires consiste à évaluer en continu l’ouverture des données dans les collectivités territoriales sur les dimensions quantitatives et qualitatives. Pour cela, l’Observatoire collecte les données de façon semi-automatique et élabore des indicateurs agrégés. Il s’appuie sur la mise en place d’outils de collecte et de traitement. 
 
 approach:
   fr: 
-    - tables postgreSQL générées à la volée
-    - backend indépendant et générique d'API-fication
-    - frontend indépendant
-    - multilingue / responsive
+    - Dashboard et cartographie
+    - Traitement à partir de diﬀérentes sources de 
+    données (Google Sheets, API Adresse, API Sirene…) 
+    - Mise à jour automatique et quotidienne 
+    (intégration continue)
 
 resources:
   fr: 
     - 1 développeur fullstack
-    - 1 product owner
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ Python, Superset, Gitlab CI ]
 
 refs:
-  - name: ademe
-    link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
-    fr: Documentation sur le wiki Résilience des Territoires
-  - name: tipee
-    link: https://fr.tipeee.com/data-patch/
-    fr: Page Tipee
-  - name: anct
-    link: https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/242
-    fr: Proposition sur le site de consultation de l'ANCT
+  - name: site
+    link: https://www.observatoire-opendata.fr/lobservatoire/
+    fr: Observatoire open data des Territoires
 
 code:
   - name: front
-    link: https://github.com/co-demos/datapatch-front
+    link: https://git.opendatafrance.net/observatoire
     fr: frontend
-  - name: back
-    link: https://github.com/co-demos/fastapi-boilerplate
-    fr: Backend
-
-cover: ./images/references/data-patch/data-patch-logo.png
 
 images:
-  - ./images/references/data-patch/datapatch-01.png
-  - ./images/references/data-patch/datapatch-02.png
-  - ./images/references/data-patch/datapatch-03.png
-  - ./images/references/data-patch/datapatch-04.png
+  - ./images/references/observatoire-open-data-des-territoires/observatoire-open-data-des-territoires-01.png
+  - ./images/references/observatoire-open-data-des-territoires/observatoire-open-data-des-territoires-02.png
+  - ./images/references/observatoire-open-data-des-territoires/observatoire-open-data-des-territoires-03.png
 
 ---
