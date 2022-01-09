@@ -4,7 +4,7 @@ type: jobs
 options:
   title-key: title
   cover-key: false
-  columns-size: half
+  columns-size: full
   has-readmore: true
   card-modal: true
   miniature-keys: 
