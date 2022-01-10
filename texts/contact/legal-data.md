@@ -1,6 +1,6 @@
 ---
 contents:
-  - title
+  - legal_mentions
   - editor_name
   - editor_name: Multi
   - editor_adress: 116 rue Dalayrac - 94120 - Fontenay-sous-Bois / France
