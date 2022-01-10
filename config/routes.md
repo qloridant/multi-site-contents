@@ -29,13 +29,19 @@ routes:
   - name: manifesto
     url: /manifesto
     sections: 
-      - name: head
+      - name: manifesto
         component: TextComponent
         options:
           columns-size: half
           columns-divider: h1
         files:
           fr: ./texts/who-are-we/manifesto-fr.md
+      - name: goals
+        component: TextComponent
+        options:
+          columns-size: two-thirds
+        files:
+          fr: ./texts/who-are-we/goals-fr.md
 
   - name: origin
     url: /origin
