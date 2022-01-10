@@ -129,7 +129,8 @@ buttons-right:
           fr: On recrute
           en: We recruit
 
-  - name: we-like 
+  - name: we-like
+    disabled: true
     # link: /we-like
     component: dropdownLink
     options: [ arrowless, hoverable ]
