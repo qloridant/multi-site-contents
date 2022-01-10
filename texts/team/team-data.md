@@ -28,6 +28,9 @@ items:
   - file: ./texts/team/Coline-Malivel.md
 
 dict:
+  status: 
+    fr: statut
+    en: status
   associate:
     fr: associé
     en: associate
