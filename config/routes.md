@@ -13,6 +13,8 @@ routes:
           en: ./texts/landing/landing-head-fr.md
       - name: head
         component: TextComponent
+        options:
+          columns: 2
         files:
           fr: ./texts/landing/landing-text-fr.md
           en: ./texts/landing/landing-text-en.md
