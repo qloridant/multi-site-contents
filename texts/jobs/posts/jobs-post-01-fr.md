@@ -1,6 +1,6 @@
 ---
 title: Directrice / Directeur technique
-job_status: [ open ]
+job_status: [ open, urgent ]
 tags: [ dev, CTO ]
 post-date: Janvier 2022
 ---
