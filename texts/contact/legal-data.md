@@ -1,6 +1,7 @@
 ---
 contents:
   - legal_mentions
+  - separator
   - editor_name
   - editor_name: Multi
   - editor_adress: 116 rue Dalayrac - 94120 - Fontenay-sous-Bois / France
@@ -8,9 +9,9 @@ contents:
   - editor_code: 822 968 699
   - separator
   - provider_name
-  - provider_name: OVH
-  - provider_adress: 2 rue Kellermann - 59100 Roubaix - France
-  - provider_site: https://www.ovh.com/fr/support/documents_legaux/
+  - provider_name: Netlify
+  - provider_adress: to add
+  - provider_site: to add
 
 options:
   titles: [ legal_mentions ]
@@ -31,8 +32,8 @@ dict:
     fr: Téléphone de l'éditeur
     en: Editor's phone number
   editor_code:
-    fr: Code postal
-    en: Postal ZIP code
+    fr: N° SIREN
+    en: Society legal number
   provider_name:
     fr: Hébergeur
     en: Provider
