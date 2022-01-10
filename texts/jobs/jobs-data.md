@@ -3,7 +3,6 @@ type: jobs
 
 options:
   title-key: title
-  cover-key: false
   columns-size: half
   has-readmore: true
   card-modal: true
