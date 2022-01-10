@@ -13,6 +13,8 @@ routes:
           en: ./texts/landing/landing-head-fr.md
       - name: head
         component: TextComponent
+        options:
+          columns-size: three-quarters
         files:
           fr: ./texts/landing/landing-text-fr.md
           en: ./texts/landing/landing-text-en.md
@@ -39,7 +41,7 @@ routes:
       - name: goals
         component: TextComponent
         options:
-          columns-size: two-thirds
+          columns-size: three-quarters
         files:
           fr: ./texts/who-are-we/goals-fr.md
 
@@ -92,37 +94,37 @@ routes:
         files:
           fr: ./texts/offer/offer-head-fr.md
 
-  - name: dev
-    url: /dev
-    sections: 
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/offer/offer-dev-fr.md
+  # - name: dev
+  #   url: /dev
+  #   sections: 
+  #     - name: head
+  #       component: TextComponent
+  #       files:
+  #         fr: ./texts/offer/offer-dev-fr.md
 
-  - name: data
-    url: /data
-    sections: 
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/offer/offer-data-fr.md
+  # - name: data
+  #   url: /data
+  #   sections: 
+  #     - name: head
+  #       component: TextComponent
+  #       files:
+  #         fr: ./texts/offer/offer-data-fr.md
 
-  - name: design
-    url: /design
-    sections: 
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/offer/offer-design-fr.md
+  # - name: design
+  #   url: /design
+  #   sections: 
+  #     - name: head
+  #       component: TextComponent
+  #       files:
+  #         fr: ./texts/offer/offer-design-fr.md
 
-  - name: audit
-    url: /audit
-    sections: 
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/offer/offer-audit-fr.md
+  # - name: audit
+  #   url: /audit
+  #   sections: 
+  #     - name: head
+  #       component: TextComponent
+  #       files:
+  #         fr: ./texts/offer/offer-audit-fr.md
 
 
   # WE LIKE
