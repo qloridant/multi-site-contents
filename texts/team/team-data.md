@@ -31,6 +31,9 @@ dict:
   status: 
     fr: statut
     en: status
+  tags: 
+    fr: étiquettes
+    en: tags
   associate:
     fr: associé
     en: associate
