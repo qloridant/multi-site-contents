@@ -1,5 +1,6 @@
 ---
 contents:
+  - title
   - editor_name: Multi
   - editor_adress: 116 rue Dalayrac - 94120 - Fontenay-sous-Bois / France
   - editor_tel: +33 83 65 84 91
