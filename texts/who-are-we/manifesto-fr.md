@@ -1,3 +1,4 @@
+
 # Notre perspective
 
 Le numérique est devenu un moyen d'accès habituel et quotidien aux services publics. Au-delà des seuls acteurs publics, les acteurs de la société civile ou du moins les acteurs para-publics (associations, fondations, think tanks...) ont eux aussi plus que jamais **besoin de disposer d'outils et de compétences** leur permettant de proposer des services numériques efficaces afin de remplir leur rôle auprès de leurs publics.
