@@ -49,6 +49,7 @@ items:
   - file: ./texts/references/open-fisca.md
   - file: ./texts/references/synapse.md
   - file: ./texts/references/hydroviz.md
+  - file: ./texts/references/libviz.md
 
 
 dict:

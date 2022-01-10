@@ -1,66 +1,55 @@
 ---
-name: Data Patch
+name: Libviz
 
 clients: 
-  - Free
-  - ADEME
+  - association PiNG (Nantes) 
+  - association Art Labo
 
 period: 
-  fr: avril-mai 2021
+  fr: 2016 - 2017
 
 type:
   fr:
-    - projet-indépendant
-    - communs-numériques
-    - open-data
+    - expérimental 
+    - artistique 
+    - graphes 
+    - data-visualisation
 
 description:
   fr: |
-    Proposer une alternative à des éditeurs en ligne de bases de données propriétaires tels que Airtable, en y ajoutant une fonctionnalité de contribution ouverte / modération (s'inspirant de Wikipedia). 
-
-    Faciliter la mise à jour de données par des communautés d'utilisateurs.
-
-    Application sécurisée d'édition de données tabulaires, de partage de données (API, iframe, widget), de gestion de base de données relationnelles, de contribution ouverte et de modération.
+    Data visualisation de collections de références bibliographiques Zotero. 
+    
+    Cet outil a été développé en complémentarité de cycles / ateliers organisés par l'association PiNG, en collaboration avec le CNAM et des structures artistiques. Il avait pour but de permettre de cartographier des controverses sur une thématique particulière tout en les documentant avec Zotero.
+    
+    Chaque noeud représente en eﬀet une ﬁche de la bibliographie Zotero renvoyant vers un article, un ouvrage, un site internet...
 
 approach:
   fr: 
-    - tables postgreSQL générées à la volée
-    - backend indépendant et générique d'API-fication
-    - frontend indépendant
-    - multilingue / responsive
+    - moyens ﬁnanciers limités
+    - généricité de la solution aﬁn de pouvoir cartographier toute bibliographie enregistrée sur Zotero
 
 resources:
   fr: 
     - 1 développeur fullstack
-    - 1 product owner
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ Javascript, D3.js, Flask ]
 
 refs:
-  - name: ademe
-    link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
-    fr: Documentation sur le wiki Résilience des Territoires
-  - name: tipee
-    link: https://fr.tipeee.com/data-patch/
-    fr: Page Tipee
-  - name: anct
-    link: https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/242
-    fr: Proposition sur le site de consultation de l'ANCT
+  - name: Libviz
+    link: http://libviz.artlabo.org/
+    fr: Libviz
 
 code:
-  - name: front
-    link: https://github.com/co-demos/datapatch-front
-    fr: frontend
-  - name: back
-    link: https://github.com/co-demos/fastapi-boilerplate
-    fr: Backend
+  - name: app
+    link: https://github.com/JulienParis/LibViz
+    fr: app
 
-cover: ./images/references/data-patch/data-patch-logo.png
 
 images:
-  - ./images/references/data-patch/datapatch-01.png
-  - ./images/references/data-patch/datapatch-02.png
-  - ./images/references/data-patch/datapatch-03.png
-  - ./images/references/data-patch/datapatch-04.png
+  - ./images/references/libviz/libviz-01.png
+  - ./images/references/libviz/libviz-02.png
+  - ./images/references/libviz/libviz-03.png
+  - ./images/references/libviz/libviz-04.png
+  - ./images/references/libviz/libviz-05.png
 
 ---
