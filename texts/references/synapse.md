@@ -35,7 +35,7 @@ technos: [ Javascript, Three.js, Flask ]
 
 refs:
   - name: bibliotheque
-    link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
+    link: https://www.la-bibliotheque.com/synapse-la-bibliotheque-en-3d/#section_contenu
     fr: Page sur le site de La Bibliothèque de St Herblain
 
 code:
@@ -44,12 +44,11 @@ code:
     fr: frontend
 
 
-
 images:
   - ./images/references/synapse/synapse-01.png
   - ./images/references/synapse/synapse-02.png
   - ./images/references/synapse/synapse-03.png
   - ./images/references/synapse/synapse-04.png
-  - ./images/references/synapse/synapse-04.png
+  - ./images/references/synapse/synapse-05.png
 
 ---

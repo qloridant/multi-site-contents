@@ -48,6 +48,7 @@ items:
   - file: ./texts/references/dbnomics.md
   - file: ./texts/references/open-fisca.md
   - file: ./texts/references/synapse.md
+  - file: ./texts/references/hydroviz.md
 
 
 dict:

@@ -1,66 +1,54 @@
 ---
-name: Data Patch
+name: Hydroviz
 
 clients: 
-  - Free
-  - ADEME
+  - Concours organisé par le Ministère de l'Environnement, de l'Energie et de la Mer
 
 period: 
-  fr: avril-mai 2021
+  fr: hiver 2016 - février 2017
 
 type:
   fr:
-    - projet-indépendant
-    - communs-numériques
-    - open-data
+    - concours 
+    - cartographie-interactive
 
 description:
   fr: |
-    Proposer une alternative à des éditeurs en ligne de bases de données propriétaires tels que Airtable, en y ajoutant une fonctionnalité de contribution ouverte / modération (s'inspirant de Wikipedia). 
-
-    Faciliter la mise à jour de données par des communautés d'utilisateurs.
-
-    Application sécurisée d'édition de données tabulaires, de partage de données (API, iframe, widget), de gestion de base de données relationnelles, de contribution ouverte et de modération.
+    2ème lauréat du concours de data visualisation de la pollution des nappes phréatiques aux pesticides.
+    
+    Visualisations variées (cartographique, treemap, indicateurs). 
 
 approach:
   fr: 
-    - tables postgreSQL générées à la volée
-    - backend indépendant et générique d'API-fication
-    - frontend indépendant
-    - multilingue / responsive
+    - hackathon / concours
+    - fonds de cartes complexes (délimitations de nappes phréatiques à diﬀérentes profondeurs) 
 
 resources:
   fr: 
     - 1 développeur fullstack
-    - 1 product owner
+    - 1 développeur conseil
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ Javascript, SocketIO, Flask, Leaﬂet ]
+
 
 refs:
-  - name: ademe
-    link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
-    fr: Documentation sur le wiki Résilience des Territoires
-  - name: tipee
-    link: https://fr.tipeee.com/data-patch/
-    fr: Page Tipee
-  - name: anct
-    link: https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/242
-    fr: Proposition sur le site de consultation de l'ANCT
+  - name: results 
+    link: https://www.ecologie.gouv.fr/concours-data-visualisation-sur-pesticides-dans-eaux-souterraines-2
+    fr: Résultats du concours 
+  - name: Fiches
+    link: https://www.ecologie.gouv.fr/sites/default/files/2017.02.27_Fiches_des_projets.pdf
+    fr: Fiches des projets 
 
 code:
-  - name: front
-    link: https://github.com/co-demos/datapatch-front
-    fr: frontend
-  - name: back
-    link: https://github.com/co-demos/fastapi-boilerplate
-    fr: Backend
+  - name: app
+    link: https://github.com/JulienParis/hydroviz
+    fr: app
 
-cover: ./images/references/data-patch/data-patch-logo.png
 
 images:
-  - ./images/references/data-patch/datapatch-01.png
-  - ./images/references/data-patch/datapatch-02.png
-  - ./images/references/data-patch/datapatch-03.png
-  - ./images/references/data-patch/datapatch-04.png
+  - ./images/references/hydroviz/hydroviz-01.png
+  - ./images/references/hydroviz/hydroviz-02.png
+  - ./images/references/hydroviz/hydroviz-03.png
+  - ./images/references/hydroviz/hydroviz-04.png
 
 ---
