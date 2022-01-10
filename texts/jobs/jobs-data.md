@@ -19,7 +19,7 @@ options:
     activate: true
     items: 
       - name: status
-      - name: tag
+      - name: tags
     
 items:
   - file: ./texts/jobs/posts/jobs-post-01-fr.md
