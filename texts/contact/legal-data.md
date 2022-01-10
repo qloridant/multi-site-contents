@@ -16,7 +16,7 @@ contents:
 options:
   titles: [ legal_mentions ]
   subtitles: [ editor_name, provider_name ]
-  labels-class: [ bold ]
+  labels-classes: [ bold ]
 
 dict: 
   legal_mentions:
