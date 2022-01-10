@@ -7,25 +7,28 @@ options:
   has-readmore: true
   card-modal: true
   miniature-keys: 
-    - status
+    - job_status
     - tags
   modal-keys: false
   tags-keys: 
-    - key: status
+    - key: job_status
       color: primary
     - key: tags
       color: info
   filters: 
     activate: true
     items: 
-      - name: status
+      - name: job_status
       - name: tags
     
 items:
   - file: ./texts/jobs/posts/jobs-post-01-fr.md
 
 dict:
-  associate:
-    fr: associé
-    en: associate
+  job_status: 
+    fr: statut
+    en: status
+  tags:
+    fr: tags
+    en: tags
 ---
