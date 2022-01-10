@@ -12,7 +12,7 @@ contents:
 
 options:
   title: legal_mentions
-  labels: bold
+  labels-class: [ bold ]
 
 dict: 
   legal_mentions:
