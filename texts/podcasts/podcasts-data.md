@@ -8,7 +8,7 @@ options:
   has-socials: false
     
 items:
-  - file: ./texts/blog/posts/blog-post-01-fr.md
+  - file: ./texts/podcasts/posts/podcast-post-01-fr.md
 
 dict:
   created:
