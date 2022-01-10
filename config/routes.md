@@ -32,7 +32,7 @@ routes:
       - name: head
         component: TextComponent
         options:
-          columns: 2
+          columns-size: half
           columns-divider: h1
         files:
           fr: ./texts/who-are-we/manifesto-fr.md
@@ -81,7 +81,7 @@ routes:
       - name: head
         component: TextComponent
         options:
-          columns: 2
+          columns-size: half
           columns-divider: h1
         files:
           fr: ./texts/offer/offer-head-fr.md
