@@ -20,13 +20,13 @@ routes:
           en: ./texts/landing/landing-text-en.md
   
   # WHO ARE WE
-  - name: who-are-we
-    url: /who-are-we
-    sections: 
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/who-are-we/who-head-fr.md
+  # - name: who-are-we
+  #   url: /who-are-we
+  #   sections: 
+  #     - name: head
+  #       component: TextComponent
+  #       files:
+  #         fr: ./texts/who-are-we/who-head-fr.md
 
   - name: manifesto
     url: /manifesto
@@ -128,13 +128,13 @@ routes:
 
 
   # WE LIKE
-  - name: we-like
-    url: /we-like
-    sections: 
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/we-like/we-like-head-fr.md
+  # - name: we-like
+  #   url: /we-like
+  #   sections: 
+  #     - name: head
+  #       component: TextComponent
+  #       files:
+  #         fr: ./texts/we-like/we-like-head-fr.md
   
   - name: network
     url: /network
@@ -173,13 +173,13 @@ routes:
           fr: ./texts/blog/blog-data.md
 
   # CONTACT
-  - name: contact
-    url: /contact
-    sections: 
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/contact/contact-head-fr.md
+  # - name: contact
+  #   url: /contact
+  #   sections: 
+  #     - name: head
+  #       component: TextComponent
+  #       files:
+  #         fr: ./texts/contact/contact-head-fr.md
 
   - name: infos
     url: /infos

@@ -8,7 +8,7 @@ buttons-left-centered: true
 buttons-left: 
 
   - name: who-are-we 
-    link: /who-are-we
+    # link: /who-are-we
     component: dropdownLink
     options: [ arrowless, hoverable ]
     label: 
@@ -35,7 +35,7 @@ buttons-left:
           en: Team
 
   - name: offer 
-    link: /offer
+    # link: /offer
     component: dropdownLink
     options: [ arrowless, hoverable ]
     label: 
@@ -80,7 +80,7 @@ buttons-left:
           en: References
   
   - name: contact 
-    link: /contact
+    # link: /contact
     component: dropdownLink
     options: [ arrowless, hoverable ]
     label: 
@@ -109,7 +109,7 @@ buttons-left:
 buttons-right: 
 
   - name: recruit 
-    link: /recruit
+    # link: /recruit
     component: dropdownLink
     options: [ arrowless, hoverable ]
     label: 
@@ -130,7 +130,7 @@ buttons-right:
           en: We recruit
 
   - name: we-like 
-    link: /we-like
+    # link: /we-like
     component: dropdownLink
     options: [ arrowless, hoverable ]
     label: 
