@@ -1,14 +1,14 @@
 
 # Mise en situation
 
-### Vous êtes un·e agent d'une structure publique (ministère, collectivité) ou parapublique (association, fondation, think tank). 
+##### Vous êtes un·e agent d'une structure publique (ministère, collectivité) ou parapublique (association, fondation, think tank). 
 
 Vous voulez réaliser un service numérique d'intérêt général : un site grand public de "data visualisation" valorisant des données publiques, un site de contribution citoyenne, un service connecté aux API publiques... 
 
 Vous avez besoin de compétences pointues et d'une équipe dédiée, efficace, agile, et qui connaît les spécificités de la commande publique : accompagnement de projet, AMO, marchés publics, accessibilité, RGPD, loi Lemaire, open source, open data, acteurs clés...
 
 
-### Vous êtes un·e professionnel·le du numérique - designer, data-scientist, développeur·euse...
+##### Vous êtes un·e professionnel·le du numérique - designer, data-scientist, développeur·euse...
 
 Vous portez les valeurs et les pratiques du logiciel libre, de l'open data et des communs numériques. 
 
