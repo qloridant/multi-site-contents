@@ -3,7 +3,7 @@ contents:
   - legal_mentions
   - separator
   - editor_name
-  - editor_name: Multi
+  - editor_name: SAS SCOP Multi
   - editor_adress: 116 rue Dalayrac - 94120 - Fontenay-sous-Bois / France
   - editor_tel: +33 83 65 84 91
   - editor_code: 822 968 699
