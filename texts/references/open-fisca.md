@@ -1,66 +1,48 @@
 ---
-name: Data Patch
+name: Open Fisca
 
 clients: 
-  - Free
-  - ADEME
+  - Institut des politiques publiques (Ecole d’économie de Paris)
+  - Etalab
 
 period: 
-  fr: avril-mai 2021
+  fr: depuis 2017
 
 type:
   fr:
-    - projet-indépendant
-    - communs-numériques
+    - service public
     - open-data
 
 description:
   fr: |
-    Proposer une alternative à des éditeurs en ligne de bases de données propriétaires tels que Airtable, en y ajoutant une fonctionnalité de contribution ouverte / modération (s'inspirant de Wikipedia). 
-
-    Faciliter la mise à jour de données par des communautés d'utilisateurs.
-
-    Application sécurisée d'édition de données tabulaires, de partage de données (API, iframe, widget), de gestion de base de données relationnelles, de contribution ouverte et de modération.
+    OpenFisca est un projet Open Source libre et gratuit, modulable et réutilisable. Il permet de modéliser le code législatif en code informatique, pour améliorer la transparence et l’accès à la loi.
 
 approach:
   fr: 
-    - tables postgreSQL générées à la volée
-    - backend indépendant et générique d'API-fication
-    - frontend indépendant
-    - multilingue / responsive
+    - Transformation du système socio-ﬁscal en code 
+    - API
 
 resources:
   fr: 
     - 1 développeur fullstack
-    - 1 product owner
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ Python ]
 
 refs:
-  - name: ademe
-    link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
-    fr: Documentation sur le wiki Résilience des Territoires
-  - name: tipee
-    link: https://fr.tipeee.com/data-patch/
-    fr: Page Tipee
-  - name: anct
-    link: https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/242
-    fr: Proposition sur le site de consultation de l'ANCT
+  - name: site
+    link: https://fr.openﬁsca.org/
+    fr: Site
 
 code:
-  - name: front
-    link: https://github.com/co-demos/datapatch-front
-    fr: frontend
-  - name: back
-    link: https://github.com/co-demos/fastapi-boilerplate
-    fr: Backend
+  - name: app
+    link: https://github.com/openﬁsca/openﬁsca-france
+    fr: app
 
-cover: ./images/references/data-patch/data-patch-logo.png
 
 images:
-  - ./images/references/data-patch/datapatch-01.png
-  - ./images/references/data-patch/datapatch-02.png
-  - ./images/references/data-patch/datapatch-03.png
-  - ./images/references/data-patch/datapatch-04.png
+  - ./images/references/open-fisca/open-fisca-01.png
+  - ./images/references/open-fisca/open-fisca-02.png
+  - ./images/references/open-fisca/open-fisca-03.png
+  - ./images/references/open-fisca/open-fisca-04.png
 
 ---
