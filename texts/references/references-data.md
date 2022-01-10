@@ -25,6 +25,8 @@ options:
   tags-keys: 
     - key: clients
       color: primary
+    - key: technos
+      color: light
   filters: 
     activate: true
     items: 
