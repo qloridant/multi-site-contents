@@ -13,8 +13,6 @@ routes:
           en: ./texts/landing/landing-head-fr.md
       - name: head
         component: TextComponent
-        options:
-          columns: 2
         files:
           fr: ./texts/landing/landing-text-fr.md
           en: ./texts/landing/landing-text-en.md
@@ -33,6 +31,9 @@ routes:
     sections: 
       - name: head
         component: TextComponent
+        options:
+          columns: 2
+          columns-divider: h1
         files:
           fr: ./texts/who-are-we/manifesto-fr.md
 
@@ -79,6 +80,9 @@ routes:
     sections: 
       - name: head
         component: TextComponent
+        options:
+          columns: 2
+          columns-divider: h1
         files:
           fr: ./texts/offer/offer-head-fr.md
 
