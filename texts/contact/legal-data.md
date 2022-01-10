@@ -1,17 +1,20 @@
 ---
 contents:
   - title
+  - editor_name
   - editor_name: Multi
   - editor_adress: 116 rue Dalayrac - 94120 - Fontenay-sous-Bois / France
   - editor_tel: +33 83 65 84 91
   - editor_code: 822 968 699
   - separator
+  - provider_name
   - provider_name: OVH
   - provider_adress: 2 rue Kellermann - 59100 Roubaix - France
   - provider_site: https://www.ovh.com/fr/support/documents_legaux/
 
 options:
-  title: legal_mentions
+  titles: [ legal_mentions ]
+  subtitles: [ editor_name, provider_name ]
   labels-class: [ bold ]
 
 dict: 
