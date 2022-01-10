@@ -8,9 +8,7 @@ email: team@multi.coop
 tags: [ design UX, design de services ]
 ---
 
-<p class="readmore">
-  Pratiquant tour à tour le design graphique, l’UX, le design de services, puis de stratégie, j’exerce depuis une dizaine d’années ces différentes facettes du design avec une visée d’acculturation et de diffusion du design. 
-</p>
+Pratiquant tour à tour le design graphique, l’UX, le design de services, puis de stratégie, j’exerce depuis une dizaine d’années ces différentes facettes du design avec une visée d’acculturation et de diffusion du design. 
 
 Depuis 2015, j’accompagne la transformation et la modernisation des administrations, à la fois dans la mise en place de méthodes et d’outils de design, la formation d’agents publics, la refonte ou conception de services et de dispositifs numériques, jusque dans des démarches de prospective en politiques publiques. 
 

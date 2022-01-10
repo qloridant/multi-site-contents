@@ -7,9 +7,7 @@ email: team@multi.coop
 tags: [ data, data science ]
 ---
 
-<p class="readmore">
-  Bonjour ! Je suis un diplômé de l’ENSIMAG, très fier d’avoir intégré la promotion des EIG. 
-</p>
+Bonjour ! Je suis un diplômé de l’ENSIMAG, très fier d’avoir intégré la promotion des EIG. 
 
 Après avoir quitté le monde des systèmes embarqués, j’ai décidé de m’orienter vers le machine learning pour découvrir plus de domaines. Ce fut un succès car j’ai travaillé chez meteoswift, start-up fournissant des prévisions de production éolienne. 
 
