@@ -1,3 +1,4 @@
+
 # Mise en situation
 
 ### Vous êtes un·e agent d'une structure publique (ministère, collectivité) ou parapublique (association, fondation, think tank). 
