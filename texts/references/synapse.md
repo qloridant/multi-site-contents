@@ -1,66 +1,55 @@
 ---
-name: Data Patch
+name: Synapse
 
 clients: 
-  - Free
-  - ADEME
+  - Bibliothèque de St Herblain
+  - partenariat avec l'Ecole de Design de Nantes
 
 period: 
-  fr: avril-mai 2021
+  fr: automne 2017
 
 type:
   fr:
-    - projet-indépendant
-    - communs-numériques
-    - open-data
+    - data-visualisation 
+    - graphes 
+    - expérimental 
+    - design
 
 description:
   fr: |
-    Proposer une alternative à des éditeurs en ligne de bases de données propriétaires tels que Airtable, en y ajoutant une fonctionnalité de contribution ouverte / modération (s'inspirant de Wikipedia). 
+    Data visualisation 3D du catalogue de la bibliothèque de St Herblain (44) et des emprunts des usagers.
 
-    Faciliter la mise à jour de données par des communautés d'utilisateurs.
-
-    Application sécurisée d'édition de données tabulaires, de partage de données (API, iframe, widget), de gestion de base de données relationnelles, de contribution ouverte et de modération.
+    145 000 références en mouvement, mises à jour quotidiennement. Parcourez cet espace en vous approchant des formes, en vous en éloignant, en les contournant. Elles contiennent ce que vous avez lu, regardé ou écouté et tout ce qu’il vous reste à découvrir.
 
 approach:
   fr: 
-    - tables postgreSQL générées à la volée
-    - backend indépendant et générique d'API-fication
-    - frontend indépendant
-    - multilingue / responsive
+    - approche artistique dans le cadre de la Nantes Digital Week
+    - challenge technique ; 145 000 points mobiles et interactifs en 3D 
+    - conﬁdentialité des données utilisateurs
 
 resources:
   fr: 
     - 1 développeur fullstack
-    - 1 product owner
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ Javascript, Three.js, Flask ]
 
 refs:
-  - name: ademe
+  - name: bibliotheque
     link: https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch
-    fr: Documentation sur le wiki Résilience des Territoires
-  - name: tipee
-    link: https://fr.tipeee.com/data-patch/
-    fr: Page Tipee
-  - name: anct
-    link: https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/242
-    fr: Proposition sur le site de consultation de l'ANCT
+    fr: Page sur le site de La Bibliothèque de St Herblain
 
 code:
   - name: front
-    link: https://github.com/co-demos/datapatch-front
+    link: https://github.com/JulienParis/synapse
     fr: frontend
-  - name: back
-    link: https://github.com/co-demos/fastapi-boilerplate
-    fr: Backend
 
-cover: ./images/references/data-patch/data-patch-logo.png
+
 
 images:
-  - ./images/references/data-patch/datapatch-01.png
-  - ./images/references/data-patch/datapatch-02.png
-  - ./images/references/data-patch/datapatch-03.png
-  - ./images/references/data-patch/datapatch-04.png
+  - ./images/references/synapse/synapse-01.png
+  - ./images/references/synapse/synapse-02.png
+  - ./images/references/synapse/synapse-03.png
+  - ./images/references/synapse/synapse-04.png
+  - ./images/references/synapse/synapse-04.png
 
 ---
