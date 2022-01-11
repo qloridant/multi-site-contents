@@ -16,7 +16,7 @@ type:
 
 description:
   fr: |
-    Solidata a été conçu aﬁn de permettre un API-ﬁcation générique de jeux de données, en général de type tabulaire. L'outil permet également d'agréger des données structurées différemment et de les homogénéiser autour d'un même schéma de données.
+    Solidata a été conçu aﬁn de permettre une API-ﬁcation générique de jeux de données, en général de type tabulaire. L'outil permet également d'agréger des données structurées différemment et de les homogénéiser autour d'un même schéma de données.
     
     Après avoir été initialement développé dans le cadre du CGET et du programme Entrepreneur d'Intérêt Général (Etalab) cet outil est toujours en production et maintenu de manière indépendante. Il permet de servir toutes les données des cartographies interactives Apiviz.
 

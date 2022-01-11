@@ -5,6 +5,7 @@ options:
   title-key: name
   images-key: image
   images-ratio: 4by4
+  images-rounded: true
   columns-size: one-third
   has-readmore: true
   has-socials: true
