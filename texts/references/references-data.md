@@ -59,30 +59,30 @@ items:
 
 dict:
   clients:
-    fr: clients
-    en: clients
+    fr: Clients
+    en: Clients
   period:
-    fr: période
-    en: period
+    fr: Période
+    en: Period
   type:
-    fr: type
-    en: type
+    fr: Type de projet
+    en: Project type
   description:
-    fr: description
-    en: description
+    fr: Description
+    en: Description
   approach:
-    fr: approche
-    en: approach
+    fr: Approche et contraintes
+    en: Approach
   resources:
-    fr: ressources
-    en: resources
+    fr: Ressources
+    en: Resources
   technos:
-    fr: technologies
-    en: technos
+    fr: Technologies
+    en: Technos
   refs:
-    fr: références
-    en: refs
+    fr: Références
+    en: References
   code:
-    fr: code source
-    en: code
+    fr: Code source
+    en: Code
 ---
