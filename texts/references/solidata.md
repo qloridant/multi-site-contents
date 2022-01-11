@@ -31,7 +31,7 @@ resources:
   fr: 
     - 1 développeur fullstack
 
-technos: [ Flask RestPlus, MongoDB, Nuxt, Vuetify, Pandas, MongoDB, Oauth2 ]
+technos: [ Flask RestPlus, MongoDB, Nuxt, Vuetify, Pandas, Oauth2 ]
 
 refs:
   - name: solidata
