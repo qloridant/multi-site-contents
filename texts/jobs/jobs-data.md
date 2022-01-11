@@ -6,7 +6,12 @@ options:
   columns-size: half
   has-readmore: true
   readmore-divider: h1
+  
   card-modal: true
+  card-modal-config:
+    column-left: false
+    column-right: true
+
   miniature-keys: 
     - job_status
     - tags

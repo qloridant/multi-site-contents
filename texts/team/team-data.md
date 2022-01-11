@@ -8,6 +8,12 @@ options:
   columns-size: one-third
   has-readmore: true
   has-socials: true
+
+  card-modal: true
+  card-modal-config:
+    column-left: true
+    column-right: true
+
   tags-keys: 
     - key: status
       color: light

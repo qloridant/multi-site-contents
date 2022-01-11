@@ -7,7 +7,12 @@ options:
   images-ratio: 7by4
   columns-size: half
   has-gallery: true
+
   card-modal: true
+  card-modal-config:
+    column-left: false
+    column-right: true
+
   miniature-keys: 
     - technos
     - clients
