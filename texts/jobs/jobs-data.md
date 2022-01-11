@@ -5,11 +5,11 @@ options:
   title-key: title
   columns-size: half
   has-readmore: true
+  readmore-divider: h1
   card-modal: true
   miniature-keys: 
     - job_status
     - tags
-  modal-keys: false
   tags-keys: 
     - key: job_status
       color: primary
