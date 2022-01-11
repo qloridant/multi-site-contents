@@ -9,19 +9,14 @@ options:
   has-gallery: true
   card-modal: true
   miniature-keys: 
-    - description
     - technos
     - clients
-  modal-keys: 
-    - clients
+  texts-keys: 
+    - description 
     - period
     - type
-    - description
     - approach
     - resources
-    - technos
-    - refs
-    - code
   tags-keys: 
     - key: clients
       color: primary
