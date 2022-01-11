@@ -54,7 +54,7 @@ dict:
     fr: clients
     en: clients
   period:
-    fr: period
+    fr: période
     en: period
   type:
     fr: type
@@ -63,18 +63,18 @@ dict:
     fr: description
     en: description
   approach:
-    fr: approach
+    fr: approche
     en: approach
   resources:
-    fr: resources
+    fr: ressources
     en: resources
   technos:
-    fr: technos
+    fr: technologies
     en: technos
   refs:
-    fr: refs
+    fr: références
     en: refs
   code:
-    fr: code
+    fr: code source
     en: code
 ---
