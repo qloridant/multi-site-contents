@@ -12,6 +12,11 @@ options:
     column-left: false
     column-right: 
       default-text: description
+      infos-texts: 
+        - period
+        - type
+        - approach
+        - resources
       tabs:
         - infos
         - gallery 
