@@ -7,7 +7,7 @@ clients:
   - Institut des politiques publiques (Ecole d’ économie de Paris)
 
 period: 
-  fr: 2020
+  fr: '2020'
 
 type:
   fr:

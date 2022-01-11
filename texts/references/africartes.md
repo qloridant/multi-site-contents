@@ -5,7 +5,7 @@ clients:
   - Agence française de développement (AFD)
 
 period: 
-  fr: 2020
+  fr: '2020'
 
 type:
   fr:
