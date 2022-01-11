@@ -15,6 +15,7 @@ options:
       tabs:
         - infos
         - gallery 
+        - links 
       images-gallery: true
 
   miniature-keys: 
@@ -26,6 +27,10 @@ options:
     - type
     - approach
     - resources
+  links-keys: 
+    - refs 
+    - code
+
   tags-keys: 
     - key: clients
       color: primary
