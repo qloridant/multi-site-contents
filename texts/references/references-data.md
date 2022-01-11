@@ -4,8 +4,8 @@ type: project
 options:
   title-key: name
   images-key: images
-  images-ratio: 6by4
-  columns-size: one-third
+  images-ratio: 7by4
+  columns-size: half
   has-gallery: true
   card-modal: true
   miniature-keys: 
