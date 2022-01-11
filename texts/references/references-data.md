@@ -11,6 +11,7 @@ options:
   card-modal-config:
     column-left: false
     column-right: 
+      default-text: description
       tabs:
         - infos
         - gallery 
