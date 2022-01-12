@@ -9,7 +9,7 @@ columns:
         label:
           fr: Manifeste
           en: Manifesto
-      - url: /contact
+      - url: /infos
         label:
           fr: Contact
           en: Contact
@@ -17,6 +17,19 @@ columns:
         label:
           fr: Mentions légales
           en: Legal mentions
+  - name: who
+    label:
+      fr: Multi
+      en: Infos
+    links: 
+      - url: /team
+        label:
+          fr: Equipe
+          en: Team
+      - url: /references
+        label:
+          fr: Références
+          en: Refs
   - name: socials
     options: [ in-line ]
     label:
