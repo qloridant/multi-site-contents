@@ -200,7 +200,7 @@ routes:
         component: TextComponent
         options:
           columns-size: half
-          # columns-divider: h1
+          columns-divider: h1
         files:
           fr: ./texts/contact/infos-head-fr.md
 
@@ -211,7 +211,7 @@ routes:
         component: TextComponent
         options:
           columns-size: half
-          # columns-divider: h1
+          columns-divider: h1
         files:
           fr: ./texts/contact/contribute-head-fr.md
 
