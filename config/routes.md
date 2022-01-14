@@ -196,6 +196,12 @@ routes:
   - name: infos
     url: /infos
     sections: 
+      - name: logo
+        component: LogoAnimated
+        options: [ no-translation ]
+        files:
+          fr: ./texts/landing/landing-head-fr.md
+          en: ./texts/landing/landing-head-fr.md
       - name: head
         component: TextComponent
         options:
