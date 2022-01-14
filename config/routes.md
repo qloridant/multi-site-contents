@@ -198,6 +198,9 @@ routes:
     sections: 
       - name: head
         component: TextComponent
+        options:
+          columns-size: half
+          # columns-divider: h1
         files:
           fr: ./texts/contact/infos-head-fr.md
 
@@ -206,6 +209,9 @@ routes:
     sections: 
       - name: head
         component: TextComponent
+        options:s
+          columns-size: half
+          # columns-divider: h1
         files:
           fr: ./texts/contact/contribute-head-fr.md
 
