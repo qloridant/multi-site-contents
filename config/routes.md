@@ -199,7 +199,7 @@ routes:
       - name: head
         component: TextComponent
         options:
-          columns-size: half
+          columns-size: two-thirds
           columns-divider: h1
         files:
           fr: ./texts/contact/infos-head-fr.md
@@ -210,7 +210,7 @@ routes:
       - name: head
         component: TextComponent
         options:
-          columns-size: half
+          columns-size: two-thirds
           columns-divider: h1
         files:
           fr: ./texts/contact/contribute-head-fr.md
