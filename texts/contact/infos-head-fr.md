@@ -2,4 +2,4 @@
 
 Pour plus d'informations contactez-nous à :
 
-📥   contact@multi.coop
+📥 &nbsp; [**contact@multi.coop**](mailto:contact@multi.coop)
