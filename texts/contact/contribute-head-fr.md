@@ -12,7 +12,7 @@ Tous les contenus de ce site sont ouverts sur le repo suivant :
 N'hésitez pas à créer une issue ou proposer vos corrections 😃 !
 
 
-## Contribuer au code source
+### Contribuer au code source
 
 Ce site est propulsé par une application open source que nous avons développé en interne. Nous avons appelé cet outil "**multi-site**". Cet outil permet de générer un site de type SPA (Single Page App) à partir d'un repo Github ou Gitlab ne contenant que des fichiers markdown et des iimages. 
 
@@ -30,14 +30,14 @@ Les technologies utilisées pour l'outil 'multi-site' sont les suivantes :
 N'hésitez pas à créer une issue si vous voyez des bugs ou des choses à améliorer 😃 !
 
 
-## Déploiement
+### Déploiement
 
 Le site est sous déployé sur [netlify](https://www.netlify.com/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5a774814-2a6a-4da7-a8b5-1cc3d654df2a/deploy-status)](https://app.netlify.com/sites/multi-site-app-test/deploys)
 
 
-## Licences
+### Licences
 
 - Les contenus du site sont sous licence **GNU General Public License v3.0**
 - Le code source de l'application "multi-site" est sous licence **GNU General Public License v3.0**
