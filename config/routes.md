@@ -229,6 +229,8 @@ routes:
     sections: 
       - name: head
         component: TextComponent
+        options:
+          columns-size: two-thirds
         files:
           fr: ./texts/jobs/join-head-fr.md
   
