@@ -8,7 +8,7 @@ Vous pouvez contribuer soit à améliorer les contenus de ce site, soit directem
 
 Tous les contenus de ce site sont ouverts sur le repo suivant :
 
-📁 &nbsp; [**contenus du site**](https://github.com/co-demos/multi-site-contents)
+📁 &nbsp; [**Contenus du site**](https://github.com/co-demos/multi-site-contents)
 
 N'hésitez pas à créer une issue ou proposer vos corrections 😃 !
 
@@ -17,7 +17,7 @@ N'hésitez pas à créer une issue ou proposer vos corrections 😃 !
 
 Ce site est propulsé par une application open source que nous avons développé en interne. Nous avons appelé cet outil "**multi-site**". Cet outil permet de générer un site de type SPA (Single Page App) à partir d'un repo Github ou Gitlab ne contenant que des fichiers markdown et des iimages. 
 
-📥 &nbsp; [**code source de multi**](https://github.com/co-demos/multi-site-app)
+📥 &nbsp; [**Code source de multi**](https://github.com/co-demos/multi-site-app)
 
 
 Les technologies utilisées pour l'outil 'multi-site' sont les suivantes : 
