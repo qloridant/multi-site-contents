@@ -28,7 +28,7 @@ resources:
     - 1 développeur fullstack
     - 1 développeur conseil
 
-technos: [ Javascript, SocketIO, Flask, Leaﬂet ]
+technos: [ Javascript, D3.js, SocketIO, Flask, Leaﬂet ]
 
 
 refs:
