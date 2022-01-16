@@ -2,7 +2,8 @@
 name: Apiviz
 
 clients: 
-  - Commissariat Général à l'Egalité des Territoires (CGET) et Carrefour des innovations sociales
+  - Commissariat Général à l'Egalité des Territoires (CGET)
+  - Carrefour des innovations sociales
   - Hubs numériques (Occitanie, Pays de la Loire, Bourgogne Franche Comté)
   - Think tank Décider Ensemble 
   - ANCT

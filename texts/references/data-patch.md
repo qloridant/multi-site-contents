@@ -2,7 +2,7 @@
 name: Data Patch
 
 clients: 
-  - Free
+  - Projet de R&D
   - ADEME
 
 period: 

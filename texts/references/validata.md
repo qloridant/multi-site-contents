@@ -2,7 +2,7 @@
 name: Validata
 
 clients: 
-  - OpenDataFrance 
+  - Open Data France 
   - Etalab
 
 period: 

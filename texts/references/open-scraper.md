@@ -3,7 +3,7 @@ name: Open Scraper
 
 clients: 
   - Commissariat Général à l'Egalité des Territoires (CGET)
-  - projet libre
+  - Projet de R&D
 
 period: 
   fr: printemps 2018

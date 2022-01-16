@@ -2,8 +2,8 @@
 name: Digital Transport for Africa
 
 clients: 
-  - Agence française de développement 
-  - Fabrique des mobilités
+  - Agence Française de Développement (AFD)
+  - Fabrique des Mobilités 
 
 period: 
   fr: 2018 - 2020

@@ -2,7 +2,7 @@
 name: Open Fisca
 
 clients: 
-  - Institut des politiques publiques (Ecole d’économie de Paris)
+  - Institut des Politiques Publiques (Ecole d’économie de Paris)
   - Etalab
 
 period: 

@@ -2,7 +2,7 @@
 name: Play With Transitions
 
 clients: 
-  - AFD
+  - Agence Française de Développement (AFD)
   - Wedodata
 
 period: 

@@ -4,7 +4,7 @@ name: Parcours d'Entrée dans l'Emploi
 clients: 
   - Région Ile de France 
   - France Compétences
-  - Institut des politiques publiques (Ecole d’ économie de Paris)
+  - Institut des Politiques Publiques (Ecole d’économie de Paris)
 
 period: 
   fr: '2020'

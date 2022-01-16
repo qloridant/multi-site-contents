@@ -3,7 +3,7 @@ name: Solidata
 
 clients: 
   - Commissariat Général à l'Egalité des Territoires (CGET)
-  - projet libre
+  - Projet de R&D
 
 period: 
   fr: automne-hiver 2018
@@ -31,7 +31,7 @@ resources:
   fr: 
     - 1 développeur fullstack
 
-technos: [ Flask RestPlus, MongoDB, Nuxt, Vuetify, Pandas, Oauth2 ]
+technos: [ Flask RestPlus, MongoDB, Nuxt.js, Vuetify, Pandas, Oauth2 ]
 
 refs:
   - name: solidata

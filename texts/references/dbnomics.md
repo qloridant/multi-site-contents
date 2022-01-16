@@ -2,7 +2,7 @@
 name: DBnomics
 
 clients: 
-  - Agence Française de Développement 
+  - Agence Française de Développement (AFD)
   - Banque de France
   - France Stratégie 
   - CEPREMAP

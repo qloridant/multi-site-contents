@@ -2,7 +2,7 @@
 name: Africartes
 
 clients: 
-  - Agence française de développement (AFD)
+  - Agence Française de Développement (AFD)
 
 period: 
   fr: '2020'

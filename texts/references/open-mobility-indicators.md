@@ -38,7 +38,7 @@ resources:
     - 3 développeurs fullstack 
     - 1 product owner
 
-technos: [ Jupyter Notebooks, Papermill, Mapbox GL JS, Python, Javascript, Svelte ]
+technos: [ Jupyter Notebooks, Papermill, MapboxGL.js, Python, Javascript, Svelte ]
 
 refs:
   - name: omi
