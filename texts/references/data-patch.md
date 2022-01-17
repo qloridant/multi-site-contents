@@ -34,7 +34,7 @@ resources:
     - 1 développeur fullstack
     - 1 product owner
 
-technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, FastAPI, SocketIO, Y.js, i18n ]
+technos: [ Javascript, Vue.js, Nuxt.js, Draggable.js, PostgreSQL, Oauth2, Python, FastAPI, SocketIO, Y.js, i18n ]
 
 refs:
   - name: ademe
