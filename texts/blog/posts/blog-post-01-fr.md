@@ -5,21 +5,17 @@ created: 10/01/2021
 author: Julien Paris
 ---
 
+En s'inspirant de la posture d' "éditeur" de logiciel, de quelle manière poser les bases d'une stratégie/méthodo lors de chaque nouveau projet ? Quel type de checklist / canevas d'analyse utiliser pour avoir une cohérence de projet en projet ? Comment s'assurer un peu contre le *bus factor* ? 
 
 
-# stratégie de R&D globale [coopérative multi](https://hackmd.io/@jailbreak/multi)
+# Vers une stratégie de R&D globale [coopérative multi](https://hackmd.io/@jailbreak/multi)
 
-:::success
-**Note Julien** : 
-
-**Ajoutez vos commentaires où vous voulez en cliquant sur "edit"**
+**Note** : 
 
 Ceci est un **draft**, une sorte d'endroit où on peut commencer à réfléchir sur l'offre de service de la coopérative. C'est pas parfait donc n'hésitez pas à ajouter vos réactions / doutes / commentaires... 
 
 
-::: 
-
-## pourquoi cette réflexion ?
+## Pourquoi cette réflexion ?
 
 Julien, le 09/11/2021 :
 
@@ -37,7 +33,7 @@ En s'inspirant de la posture d' "éditeur" de logiciel, de quelle manière poser
 
 Proposition à challenger : 
 
-## une "ligne éditoriale" pour des briques logicielles (ou méthodo design) libres :
+## Une "ligne éditoriale" pour des briques logicielles (ou méthodo design) libres :
 
 - quel que soit l'outil/produit il doit être divisible en modules interopérable/utilisable avec un ou plusieurs des outils/produits qu'on a ou qu'on sera appelé à développer ;
 - les langages utilisés doivent pouvoir l'être par la majorité des devs, pas de trucs trop exotiques pour assurer le passage de relais : python, js, docker, doc en français/anglais... ;
@@ -53,7 +49,7 @@ Proposition à challenger :
 
 
 
-## des "collections" de méso/micro-produits interopérables :
+## Des "collections" de méso/micro-produits interopérables :
 
 - collection "**basics**" : gestion d'utilisateurs et de mots de passe, gestion ds groupes, proxies pour mailing, ...
 - collection "**data**" : outils de backend + BDD de gestion de données génériques ou semi-spécialisées (données tabulaires, séries temporelle, ...) + gestion en frontend (datapatch, spreadsheep, baserow...)
@@ -66,7 +62,7 @@ Proposition à challenger :
 
 
 ----
-## "produits" déjà développés (dont on possède un bon savoir-faire) : 
+## "Produits" déjà développés (dont on possède un bon savoir-faire) : 
 
 - slides ici : https://nextcloud.jailbreak.paris/s/Zx7HKq6r28dWAL9
 
