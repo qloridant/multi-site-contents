@@ -13,6 +13,7 @@ options:
     column-right: true
 
   miniature-keys: 
+    - post_date
     - job_status
     - tags
 
