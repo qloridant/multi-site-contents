@@ -1,6 +1,6 @@
 ---
 title: stratégie R&D 
-tags: [ multi ]
+tags: [ multi, R&D ]
 created: 10/01/2021
 ---
 
