@@ -3,7 +3,7 @@ type: jobs
 
 options:
   title-key: title
-  columns-size: full
+  columns-size: half
   has-readmore: true
   readmore-divider: h1
   
