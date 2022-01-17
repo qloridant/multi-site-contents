@@ -27,6 +27,9 @@ dict:
   created:
     fr: Date de publication
     en: Publication date
+  author:
+    fr: Auteur
+    en: Author
   tags:
     fr: tags
     en: tags
