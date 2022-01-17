@@ -2,7 +2,7 @@
 title: Directrice / Directeur technique
 job_status: [ open, urgent ]
 tags: [ dev, CTO ]
-post-date: Janvier 2022
+post_date: 20 janvier 2022
 ---
 
 Vous avez envie de rejoindre une coopérative du numérique d'intérêt général et de proposer une vision pour de la R&D *open source* ?

@@ -37,4 +37,7 @@ dict:
   tags:
     fr: tags
     en: tags
+  post_date:
+    fr: Date de publication
+    en: Publication date
 ---

@@ -130,7 +130,7 @@ buttons-right:
           en: We recruit
 
   - name: we-like
-    disabled: true
+    disabled: false
     # link: /we-like
     component: dropdownLink
     options: [ arrowless, hoverable ]
@@ -138,18 +138,18 @@ buttons-right:
       fr: On aime
       en: We like
     submenu: 
-      - name: network
-        link: /network
-        component: simpleLink
-        label: 
-          fr: Notre réseau
-          en: Our network
-      - name: podcast
-        link: /podcasts
-        component: simpleLink
-        label: 
-          fr: Podcasts
-          en: Podcasts
+      # - name: network
+      #   link: /network
+      #   component: simpleLink
+      #   label: 
+      #     fr: Notre réseau
+      #     en: Our network
+      # - name: podcast
+      #   link: /podcasts
+      #   component: simpleLink
+      #   label: 
+      #     fr: Podcasts
+      #     en: Podcasts
       - name: blog
         link: /blog
         component: simpleLink

@@ -2,7 +2,7 @@
 title: Développeur·euse fullstack
 job_status: [ open ]
 tags: [ dev, fullstack ]
-post-date: Janvier 2022
+post_date: 05 janvier 2022
 ---
 
 🚧 &nbsp; Nous cherchons une personne pour travailler au développement du **catalogage de données produites par l'Etat**. Il s'agit d'un projet **open source**.
