@@ -2,6 +2,7 @@
 title: stratégie R&D 
 tags: [ multi, R&D ]
 created: 10/01/2021
+author: Julien Paris
 ---
 
 
