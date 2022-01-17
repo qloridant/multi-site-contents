@@ -29,7 +29,7 @@ columns:
       - url: /references
         label:
           fr: Références
-          en: Refs
+          en: References
   - name: socials
     options: [ in-line ]
     label:
