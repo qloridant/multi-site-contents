@@ -5,6 +5,8 @@ tags: [ dev, fullstack ]
 post-date: Janvier 2022
 ---
 
+🚧 &nbsp; Nous cherchons une personne pour travailler au développement du **catalogage de données produites par l'Etat**. Il s'agit d'un projet **open source**.
+
 # multi recrute un‧e développeur‧se Full Stack pour construire catalogue.data.gouv.fr
 
 ## La coopérative numérique multi 
@@ -14,8 +16,6 @@ post-date: Janvier 2022
 📖 &nbsp; Nous travaillons sur différents projets pour des acteurs publics ou para-publics. Nos projets et nos activités ont en commun une spécialisation autour de l'*open data* et de l'*open source*. Nos chantiers recouvrent différents sujets, allant de la datavisualisation à la gestion de bases de données en ligne, en passant par les schémas de données et la validation, le design de services, le design UX/UI, ou le conseil...
 
 ## Le projet catalogue.data.gouv.fr
-
-🚧 &nbsp; Nous cherchons une personne pour travailler au développement du **catalogage de données produites par l'Etat**. Il s'agit d'un projet **open source**.
 
 L'équipe de developpement a été constituée en décembre 2021, le peojet ayant débuté sur la base d'une [investigation](https://jailbreak.gitlab.io/investigation-catalogue/synthese.html) ayant permis de délimiter un premier  périmètre fonctionnel et d'identifier un cercle de premiers utilisateurs. 
 
