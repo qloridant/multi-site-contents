@@ -15,11 +15,13 @@ options:
   miniature-keys: 
     - job_status
     - tags
+
   tags-keys: 
     - key: job_status
       color: primary
     - key: tags
       color: info
+
   filters: 
     activate: true
     items: 

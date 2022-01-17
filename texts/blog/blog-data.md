@@ -11,6 +11,11 @@ options:
     column-left: false
     column-right: true
 
+  miniature-keys: 
+    - author
+    - created
+    - tags
+
   tags-keys: 
     - key: tags
       color: info

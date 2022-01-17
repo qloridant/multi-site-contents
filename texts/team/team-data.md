@@ -14,11 +14,14 @@ options:
     column-left: true
     column-right: true
 
+  miniature-keys: false
+
   tags-keys: 
     - key: status
       color: light
     - key: tags
       color: primary
+
   filters: 
     activate: true
     items: 

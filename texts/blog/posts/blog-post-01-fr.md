@@ -1,5 +1,5 @@
 ---
-title: stratégie R&D 
+title: Une stratégie R&D pour multi ? 
 tags: [ multi, R&D ]
 created: 10/01/2021
 author: Julien Paris

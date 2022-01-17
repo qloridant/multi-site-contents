@@ -26,12 +26,14 @@ options:
   miniature-keys: 
     - technos
     - clients
+
   texts-keys: 
     - description 
     - period
     - type
     - approach
     - resources
+
   links-keys: 
     - refs 
     - code
