@@ -51,24 +51,24 @@ options:
       - name: clients
 
 items: 
-  - file: ./texts/references/data-patch.md
-  - file: ./texts/references/barometre-action-publique.md
-  - file: ./texts/references/africartes.md
-  - file: ./texts/references/aides-entreprises.md
-  - file: ./texts/references/open-mobility-indicators.md
-  - file: ./texts/references/parcours-entree-dans-emploi.md
-  - file: ./texts/references/play-with-transitions.md
-  - file: ./texts/references/digital-transport-for-africa.md
-  - file: ./texts/references/observatoire-open-data-des-territoires.md
-  - file: ./texts/references/apiviz.md
-  - file: ./texts/references/solidata.md
-  - file: ./texts/references/open-scraper.md
-  - file: ./texts/references/validata.md
-  - file: ./texts/references/dbnomics.md
-  - file: ./texts/references/open-fisca.md
-  - file: ./texts/references/synapse.md
-  - file: ./texts/references/hydroviz.md
-  - file: ./texts/references/libviz.md
+  - file: ./texts/references/projects/data-patch.md
+  - file: ./texts/references/projects/barometre-action-publique.md
+  - file: ./texts/references/projects/africartes.md
+  - file: ./texts/references/projects/aides-entreprises.md
+  - file: ./texts/references/projects/open-mobility-indicators.md
+  - file: ./texts/references/projects/parcours-entree-dans-emploi.md
+  - file: ./texts/references/projects/play-with-transitions.md
+  - file: ./texts/references/projects/digital-transport-for-africa.md
+  - file: ./texts/references/projects/observatoire-open-data-des-territoires.md
+  - file: ./texts/references/projects/apiviz.md
+  - file: ./texts/references/projects/solidata.md
+  - file: ./texts/references/projects/open-scraper.md
+  - file: ./texts/references/projects/validata.md
+  - file: ./texts/references/projects/dbnomics.md
+  - file: ./texts/references/projects/open-fisca.md
+  - file: ./texts/references/projects/synapse.md
+  - file: ./texts/references/projects/hydroviz.md
+  - file: ./texts/references/projects/libviz.md
 
 
 dict:
