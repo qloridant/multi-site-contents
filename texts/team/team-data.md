@@ -26,7 +26,7 @@ options:
   filters: 
     activate: true
     items: 
-      - name: status
+      # - name: status
       - name: tags
     
 items:
