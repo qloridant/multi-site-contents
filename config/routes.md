@@ -224,10 +224,14 @@ routes:
   - name: legal
     url: /legal
     sections: 
-      - name: data
-        component: TextDataComponent
+      # - name: data
+      #   component: TextDataComponent
+      #   files:
+      #     fr: ./texts/contact/legal-data.md
+      - name: legal-text
+        component: TextComponent
         files:
-          fr: ./texts/contact/legal-data.md
+          fr: ./texts/contact/legal-mentions-fr.md
 
   # JOBS
   - name: join 
