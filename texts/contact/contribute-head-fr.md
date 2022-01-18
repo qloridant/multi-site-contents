@@ -1,11 +1,11 @@
 
 # Vous pouvez contribuer à ce site
 
-Vous pouvez contribuer soit à améliorer les contenus de ce site, soit directement au code source.
+Selon vos envies et/ou vos compétences en code vous pouvez nous aider soit à améliorer [les contenus][site_contents] de ce site, soit directement à contribuer sur le [code source de l'applicatif][repo_app].
 
 ---
 
-## Améliorer les contenus
+### Améliorer les contenus
 
 Tous les contenus de ce site sont ouverts sur le repo suivant :
 
@@ -20,12 +20,12 @@ Si faire des *pull requests* c'est pas votre truc, vous pouvez aussi nous laisse
 
 ### Contribuer au code source
 
-Ce site est propulsé par une application open source que nous avons développé en interne. Nous avons appelé cet outil "**[multi-site][repo_app]**". Cet outil permet de générer un site de type SPA (Single Page App) à partir d'un repo Github ou Gitlab ne contenant que des fichiers markdown et des iimages. 
+Ce site est propulsé par une application open source que nous avons développé en interne. Nous avons appelé cet outil "**[multi-site][repo_app]**". Cet outil permet de générer un site de type SPA (*Single Page App*) à partir d'un *repo* Github ou Gitlab ne contenant que des fichiers markdown et des images. 
 
 💻 &nbsp; [**Code source de l'outil 'multi-site'**][repo_app]
 
 
-Les technologies utilisées pour l'outil ['multi-site'][repo_app] sont les suivantes : 
+Les technologies utilisées pour l'outil **[multi-site][repo_app]** sont les suivantes : 
 - [Nuxt.js](https://nuxtjs.org) - framework js
 - [Buefy](https://buefy.org/documentation) - framework css
 - [Axios](https://axios-http.com/) - pour les requêtes http côté client
@@ -41,7 +41,7 @@ N'hésitez pas à créer une issue si vous voyez des bugs ou des choses à amél
 
 ### Déploiement
 
-Le site est sous déployé sur [netlify](https://www.netlify.com/)
+Le site est sous déployé sur [netlify](https://www.netlify.com/).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5a774814-2a6a-4da7-a8b5-1cc3d654df2a/deploy-status)](https://app.netlify.com/sites/multi-site-app-test/deploys)
 
