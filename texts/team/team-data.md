@@ -11,6 +11,7 @@ options:
 
   card-modal: true
   card-modal-config:
+    full-screen: false
     column-left: true
     column-right: true
 

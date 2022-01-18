@@ -9,6 +9,7 @@ options:
 
   card-modal: true
   card-modal-config:
+    full-screen: true
     column-left: false
     column-right: 
       default-text: description
