@@ -46,12 +46,12 @@ columns:
         label:
           fr: Linkedin
           en: Linkedin
-      - url: /manifesto
+      - url: https://gitlab.com/coop-multi
         icon: gitlab
         label:
           fr: Gitlab
           en: Gitlab
-      - url: https://github.com/co-demos
+      - url: https://github.com/jailbreak-paris
         icon: github
         label:
           fr: Github
