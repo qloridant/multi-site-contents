@@ -3,24 +3,29 @@
 
 Vous pouvez contribuer soit à améliorer les contenus de ce site, soit directement au code source.
 
+---
 
 ## Améliorer les contenus
 
 Tous les contenus de ce site sont ouverts sur le repo suivant :
 
-📁 &nbsp; [**Contenus du site**](https://github.com/co-demos/multi-site-contents)
+📁 &nbsp; [**Contenus du site**][site_contents]
 
 N'hésitez pas à créer une issue ou proposer vos corrections 😃 !
 
+Si faire des *pull requests* c'est pas votre truc, vous pouvez aussi nous laisser un petit mot sur [notre pad dédié aux retours][pad_feedbacks] ...
+
+
+----
 
 ### Contribuer au code source
 
-Ce site est propulsé par une application open source que nous avons développé en interne. Nous avons appelé cet outil "**multi-site**". Cet outil permet de générer un site de type SPA (Single Page App) à partir d'un repo Github ou Gitlab ne contenant que des fichiers markdown et des iimages. 
+Ce site est propulsé par une application open source que nous avons développé en interne. Nous avons appelé cet outil "**[multi-site][repo_app]**". Cet outil permet de générer un site de type SPA (Single Page App) à partir d'un repo Github ou Gitlab ne contenant que des fichiers markdown et des iimages. 
 
-💻 &nbsp; [**Code source de multi**](https://github.com/co-demos/multi-site-app)
+💻 &nbsp; [**Code source de l'outil 'multi-site'**][repo_app]
 
 
-Les technologies utilisées pour l'outil 'multi-site' sont les suivantes : 
+Les technologies utilisées pour l'outil ['multi-site'][repo_app] sont les suivantes : 
 - [Nuxt.js](https://nuxtjs.org) - framework js
 - [Buefy](https://buefy.org/documentation) - framework css
 - [Axios](https://axios-http.com/) - pour les requêtes http côté client
@@ -29,6 +34,9 @@ Les technologies utilisées pour l'outil 'multi-site' sont les suivantes :
 - [vue-Showdown](https://vue-showdown.js.org/) - plugin js permettant de transformer en html des données de type markdown
 
 N'hésitez pas à créer une issue si vous voyez des bugs ou des choses à améliorer 😃 !
+
+
+---
 
 
 ### Déploiement
@@ -42,3 +50,9 @@ Le site est sous déployé sur [netlify](https://www.netlify.com/)
 
 - Les contenus du site sont sous licence **GNU General Public License v3.0**
 - Le code source de l'application "multi-site" est sous licence **GNU General Public License v3.0**
+
+
+
+[site_contents]: https://github.com/co-demos/multi-site-contents
+[pfeedbacksurs]: https://hackmd.io/@multi/retours-site-multi
+[repo_app]: https://github.com/co-demos/multi-site-app
