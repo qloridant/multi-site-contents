@@ -31,7 +31,7 @@ En s'inspirant de la posture d' "éditeur" de logiciel, de quelle manière poser
 
 _Proposition à *challenger*_ : 
 
-## Une "ligne éditoriale" pour des briques logicielles (ou méthodo design) libres :
+## Une "ligne éditoriale" pour des briques logicielles (ou méthodo design) libres
 
 - quel que soit l'outil/produit il doit être **divisible en modules interopérables** / utilisables avec un ou plusieurs des outils/produits qu'on a ou qu'on sera appelé à développer ;
 - les **langages utilisés doivent pouvoir l'être par la majorité des devs**, pas de trucs trop exotiques pour assurer le passage de relais : python, js, docker, doc en français/anglais... ;
@@ -47,7 +47,7 @@ _Proposition à *challenger*_ :
 
 
 
-## Des "collections" de méso/micro-produits interopérables :
+## Des "collections" de méso/micro-produits interopérables
 
 - collection "**basics**" : gestion d'utilisateurs et de mots de passe, gestion ds groupes, proxies pour mailing, ...
 - collection "**data**" : outils de backend + BDD de gestion de données génériques ou semi-spécialisées (données tabulaires, séries temporelle, ...) + gestion en frontend (datapatch, spreadsheep, baserow...)
@@ -60,7 +60,7 @@ _Proposition à *challenger*_ :
 
 
 ----
-## "Produits" déjà développés (dont on possède un bon savoir-faire) : 
+## "Produits" déjà développés (dont on possède un bon savoir-faire)
 
 - slides [ici](https://nextcloud.jailbreak.paris/s/Zx7HKq6r28dWAL9)
 
@@ -71,10 +71,3 @@ Produits phares :
 - Vitrine
 - [Odamap](https://www.multi.coop/references?item=.%2Ftexts%2Freferences%2Fprojects%2Faides-entreprises.md)
 - ...
-
-
-------
-
-## Vos/nos commentaires : 
-
-...
