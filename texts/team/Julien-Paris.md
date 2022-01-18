@@ -4,7 +4,7 @@ status: [ associate, founder, employee ]
 image: ./images/team/julien-paris.jpg
 github: https://github.com/JulienParis
 linkedin: https://www.linkedin.com/in/julien-paris-3056b035/
-email: team@multi.coop
+email: julien.paris@multi.coop
 tags: [ full-stack, python, nuxt, vuejs, flask, fastAPI ]
 ---
 

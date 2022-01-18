@@ -3,7 +3,7 @@ name: Johan Richer
 status: [ associate, founder, employee ]
 image: ./images/team/johan-richer.jpg
 twitter: https://twitter.com/johanricher
-email: team@multi.coop
+email: johan.richer@multi.coop
 tags: [ conseil ]
 ---
 
