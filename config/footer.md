@@ -36,7 +36,7 @@ columns:
       fr: Sur les réseaux
       en: On social networks
     links: 
-      - url: https://twitter.com/jailbreak_paris
+      - url: https://twitter.com/multi_coop
         icon: twitter
         label:
           fr: Twitter
