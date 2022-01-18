@@ -14,8 +14,8 @@ options:
     column-left: true
     column-right: true
 
-  miniature-keys: 
-    - start
+  # miniature-keys: 
+  #   - start
 
   tags-keys: 
     - key: status
