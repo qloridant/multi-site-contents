@@ -14,7 +14,8 @@ options:
     column-left: true
     column-right: true
 
-  miniature-keys: false
+  miniature-keys: 
+    - start
 
   tags-keys: 
     - key: status
@@ -34,7 +35,7 @@ items:
   - file: ./texts/team/Thomas-Brosset.md
   - file: ./texts/team/Pierre-Camilleri.md
   - file: ./texts/team/Quentin-Loridant.md
-  - file: ./texts/team/Coline-Malivel.md
+  # - file: ./texts/team/Coline-Malivel.md
 
 dict:
   status: 
@@ -52,4 +53,7 @@ dict:
   employee:
     fr: salarié
     en: employee
+  start:
+    fr: Dans l'équipe depuis
+    en: Team member since
 ---

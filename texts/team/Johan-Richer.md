@@ -1,6 +1,7 @@
 ---
 name: Johan Richer
-status: [ associate, founder, employee ]
+status: [ associate, employee ]
+start: début 2022
 image: ./images/team/johan-richer.jpg
 twitter: https://twitter.com/johanricher
 email: johan.richer@multi.coop

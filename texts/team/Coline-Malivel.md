@@ -1,6 +1,7 @@
 ---
 name: Coline Malivel
-status: [ associate, founder ]
+status: [ associate ]
+start: début 2022
 image: ./images/team/coline-malivel.jpg
 github: https://github.com/coline
 linkedin: https://www.linkedin.com/in/colinemalivel/

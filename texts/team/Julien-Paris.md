@@ -1,6 +1,7 @@
 ---
 name: Julien Paris
-status: [ associate, founder, employee ]
+status: [ associate, employee ]
+start: début 2022
 image: ./images/team/julien-paris.jpg
 github: https://github.com/JulienParis
 linkedin: https://www.linkedin.com/in/julien-paris-3056b035/

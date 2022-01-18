@@ -1,6 +1,7 @@
 ---
 name: Pierre Camilleri
-status: [ associate, founder ]
+status: [ associate, employee ]
+start: début 2022
 image: ./images/team/pierre-camilleri.png
 github: https://github.com/jazzypierrot
 email: team@multi.coop

@@ -1,6 +1,7 @@
 ---
 name: Quentin Loridant
-status: [ associate, founder ]
+status: [ associate, employee ]
+start: début 2022
 image: ./images/team/quentin-loridant.png
 github: https://www.linkedin.com/in/quentin-loridant-8b5719a5/
 email: team@multi.coop
