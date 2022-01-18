@@ -39,7 +39,7 @@ _Proposition à *challenger*_ :
 - on inclut systématiquement une **réflexion sur l'XP / UX** ;
 - **pas de dev sans designer** ;
 - pas de produit sans **une équipe d'au moins 2 personnes** côté tech ;
-- *No fork* / ***no forking way***, on cherche à généraliser le problème 
+- *No fork* / ***no forking way***, on cherche à généraliser le problème ;
 - **pas de produit sans une stratégie** de communication, une stratégie commerciale autour du produit, et une stratégie de pérennisation ;
 - **on se forme / on échange** sur tous les outils / micro-produits réalisés par la coopérative ;
 - on investit dans **la documentation** ;
