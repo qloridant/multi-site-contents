@@ -54,5 +54,5 @@ Le site est sous déployé sur [netlify](https://www.netlify.com/)
 
 
 [site_contents]: https://github.com/co-demos/multi-site-contents
-[pfeedbacksurs]: https://hackmd.io/@multi/retours-site-multi
+[pad_feedbacks]: https://hackmd.io/@multi/retours-site-multi
 [repo_app]: https://github.com/co-demos/multi-site-app
