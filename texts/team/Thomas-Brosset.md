@@ -1,6 +1,7 @@
 ---
 name: Thomas Brosset
 status: [ associate, founder ]
+start: début 2022
 image: ./images/team/thomas-brosset.png
 github: https://github.com/thoomasbro
 linkedin: https://www.linkedin.com/in/thomasbrosset/
