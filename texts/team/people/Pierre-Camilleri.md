@@ -4,6 +4,7 @@ status: [ associate, employee ]
 start: début 2022
 image: ./images/team/pierre-camilleri.png
 github: https://github.com/jazzypierrot
+linkedin: https://www.linkedin.com/in/pierre-camilleri-6a121664/
 email: team@multi.coop
 tags: [ data, data science, R ]
 ---
