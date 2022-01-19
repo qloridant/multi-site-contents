@@ -99,12 +99,12 @@ buttons-left:
         label: 
           fr: Contribuer
           en: Contribute
-      - name: legal
-        link: /legal
-        component: simpleLink
-        label: 
-          fr: Mentions légales
-          en: Legal
+      # - name: legal
+      #   link: /legal
+      #   component: simpleLink
+      #   label: 
+      #     fr: Mentions légales
+      #     en: Legal
 
 buttons-right: 
 
