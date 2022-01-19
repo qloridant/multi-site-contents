@@ -51,6 +51,16 @@ routes:
         files:
           fr: ./texts/who-are-we/goals-fr.md
 
+  - name: manifesto-temp
+    url: /manifesto-temp
+    sections: 
+      - name: manifesto-temp
+        component: TextComponent
+        options:
+          columns-size: full
+        files:
+          fr: ./texts/who-are-we/manifesto-temp-fr.md
+
   - name: origin
     url: /origin
     options: [ menu ]
@@ -105,6 +115,16 @@ routes:
           columns-divider: h1
         files:
           fr: ./texts/offer/offer-head-fr.md
+
+  - name: offer-temp
+    url: /offer-temp
+    sections: 
+      - name: offer-temp
+        component: TextComponent
+        options:
+          columns-size: full
+        files:
+          fr: ./texts/offer/offer-temp-fr.md
 
   # - name: dev
   #   url: /dev
