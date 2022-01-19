@@ -5,6 +5,8 @@ tags: [ dev, full stack ]
 post_date: 05 janvier 2022
 ---
 
+🚧 &nbsp; Nous cherchons une personne pour travailler au développement du **catalogage de données produites par l'Etat**. Il s'agit d'un projet **open source**.
+
 # multi recrute un‧e développeur‧se Full Stack pour construire catalogue.data.gouv.fr
 
 ## La coopérative numérique multi 
