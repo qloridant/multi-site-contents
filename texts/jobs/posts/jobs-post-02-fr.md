@@ -64,5 +64,3 @@ Vous serez intégré·e dans une équipe comprenant :
 4. Embarquement avec l'équipe projet
 
 📥 &nbsp; [**contact@multi.coop**](mailto:contact@multi.coop)
-
-🔗 &nbsp; **N'hésitez pas à diffuser l'offre en partageant [ce lien](https://hackmd.io/@multi/job-dev-fullstack) sur vos réseaux.**
